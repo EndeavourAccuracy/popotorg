@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- https://www.popot.org/news_2011-2020.xml -->
+<news>
+	<item date="2020-12-30">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.11.1) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.<br>Also, added the new <span class="italic">poplaun</span> (version 0.4) to the <a href="other_useful_tools.php?tool=poplaun">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2020-12-29">
+		<html><![CDATA[Added Apple II mod <span class="italic">PoP: Special Edition</span> to the <a href="/custom_levels.php?action=Other_mods">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-12-28">
+		<html><![CDATA[Users can now <a href="/custom_levels.php?action=Submit">submit</a> their mods via an online form.<br>Also, users can now subscribe to receiving emails about newly-added mods.]]></html>
+	</item>
+	<item date="2020-12-22">
+		<html><![CDATA[Added DOS mod <span class="italic">Mysterious Doom</span> to the <a href="custom_levels.php?mod=0000235">Custom Levels</a>.<br>Also, added the new <span class="italic">poplaun</span> (version 0.3) to the <a href="other_useful_tools.php?tool=poplaun">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2020-12-17">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#158">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-12-04">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#157">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-11-26">
+		<html><![CDATA[Added mods <a href="custom_levels.php?mod=0000233"><span class="italic">Amogh's Levelset 3</span></a> and <a href="custom_levels.php?mod=0000234"><span class="italic">Nasty Dungeons</span></a>.]]></html>
+	</item>
+	<item date="2020-11-23">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.11) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2020-10-29">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#156">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-10-15">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.10) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2020-10-11">
+		<html><![CDATA[Added mods <a href="custom_levels.php?mod=0000229"><span class="italic">Lockdown on Persia</span></a>, <a href="custom_levels.php?mod=0000230"><span class="italic">Lihinghntom's Twisty Levelset</span></a>, <a href="custom_levels.php?mod=0000231"><span class="italic">No Sword Original</span></a>, and <a href="custom_levels.php?mod=0000232"><span class="italic">Prince 1 and 1/2</span></a>.]]></html>
+	</item>
+	<item date="2020-10-04">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#155">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-10-03">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#154">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-09-22">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#153">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-09-17">
+		<html><![CDATA[<a href="documentation.php?doc=TricksPoll">Call to vote: submit your top 5 favorite tricks!</a><br>Also, added another trick video to the <a href="documentation.php?doc=TricksPage4#152">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-08-27">
+		<html><![CDATA[Added a page about <span class="italic">Karateka</span> to the <a href="get_the_games.php?game=Karateka">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2020-08-23">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.21) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.<br>Also, added another trick video to the <a href="documentation.php?doc=TricksPage4#151">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-08-18">
+		<html><![CDATA[Added mods <a href="custom_levels.php?mod=0000224"><span class="italic">Root Planet</span></a>, <a href="custom_levels.php?mod=0000225"><span class="italic">Temple of Darkness</span></a>, <a href="custom_levels.php?mod=0000226"><span class="italic">Indonesian Sweet Dreams</span></a>, <a href="custom_levels.php?mod=0000227"><span class="italic">Journey In Mystery</span></a>, and <a href="custom_levels.php?mod=0000228"><span class="italic">Amogh's Levelset 2</span></a>.]]></html>
+	</item>
+	<item date="2020-08-01">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.9) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2020-07-13">
+		<html><![CDATA[Added two more trick videos (149 and 150) to the <a href="documentation.php?doc=TricksPage4#149">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-07-11">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#148">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-05-29">
+		<html><![CDATA[Added SNES mod <span class="italic">30th Anniversary Port</span> to the <a href="custom_levels.php?mod=S000026">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-05-16">
+		<html><![CDATA[Added DOS mod <span class="italic">Amogh's Levelset 1</span> to the <a href="custom_levels.php?mod=0000222">Custom Levels</a>.<br>Also, added DOS mod <span class="italic">Youran's Levelset 1</span> to the <a href="custom_levels.php?mod=0000223">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-05-15">
+		<html><![CDATA[Added the new <span class="italic">NESPrincEd</span> release (version 2.0) to the <a href="level_editors.php?editor=NESPrincEd">Level Editors</a>.]]></html>
+	</item>
+	<item date="2020-05-09">
+		<html><![CDATA[Added DOS mod <span class="italic">Universe 693</span> to the <a href="custom_levels.php?mod=0000221">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-05-06">
+		<html><![CDATA[Added DOS mod <span class="italic">Jaffar's House</span> to the <a href="custom_levels.php?mod=0000220">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-05-01">
+		<html><![CDATA[Added the new <span class="italic">lemsop</span> release (version 0.8b) to the <a href="level_editors.php?editor=lemsop">Level Editors</a>.]]></html>
+	</item>
+	<item date="2020-04-16">
+		<html><![CDATA[Added DOS mod <span class="italic">Secrets and curses</span> to the <a href="custom_levels.php?mod=0000219">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-04-11">
+		<html><![CDATA[Added DOS mod <span class="italic">Misaligned</span> to the <a href="custom_levels.php?mod=0000218">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-03-31">
+		<html><![CDATA[Added DOS mod <span class="italic">Save the princess in 8 minutes</span> to the <a href="custom_levels.php?mod=0000217">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-03-22">
+		<html><![CDATA[Added DOS mod <span class="italic">Escape From Illusion</span> to the <a href="custom_levels.php?mod=0000216">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-03-20">
+		<html><![CDATA[Added DOS mod <span class="italic">Ararat</span> to the <a href="custom_levels.php?mod=0000215">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-03-17">
+		<html><![CDATA[Added DOS mod <span class="italic">Rescue of Persia</span> to the <a href="custom_levels.php?mod=0000214">Custom Levels</a>.<br>Also, added another trick video to the <a href="documentation.php?doc=TricksPage4#147">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-03-14">
+		<html><![CDATA[Added DOS mod <span class="italic">Hurry up Prince</span> to the <a href="custom_levels.php?mod=0000213">Custom Levels</a>.<br>Also, added 4 new tricks (143-146) to the <a href="documentation.php?doc=TricksPage4#143">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-03-12">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.8) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2020-03-10">
+		<html><![CDATA[Added 2 new tricks (141, 142) to the <a href="documentation.php?doc=TricksPage4#141">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-03-06">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#140">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-02-27">
+		<html><![CDATA[Added DOS mod <span class="italic">Magic of Persia</span> to the <a href="custom_levels.php?mod=0000212">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-02-25">
+		<html><![CDATA[Added DOS mod <span class="italic">Prince's Adventure</span> to the <a href="custom_levels.php?mod=0000211">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-02-20">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#139">Documentation</a>.<br>Also, added DOS mod <span class="italic">Jaffar's Revenge Completed</span> to the <a href="custom_levels.php?mod=0000210">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-02-19">
+		<html><![CDATA[Added DOS mod <span class="italic">Time is the Key</span> to the <a href="custom_levels.php?mod=0000209">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-02-07">
+		<html><![CDATA[Added DOS mod <span class="italic">Hide and Seek</span> to the <a href="custom_levels.php?mod=0000208">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-01-14">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#138">Documentation</a>.]]></html>
+	</item>
+	<item date="2020-01-06">
+		<html><![CDATA[Added DOS mod <span class="italic">Return of Prince</span> to the <a href="custom_levels.php?mod=0000207">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2020-01-01">
+		<html><![CDATA[Added DOS mod <span class="italic">Dangerous Dungeons</span> to the <a href="custom_levels.php?mod=0000206">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-12-21">
+		<html><![CDATA[Added DOS mod <span class="italic">Illusions of Persia II</span> to the <a href="custom_levels.php?mod=0000204">Custom Levels</a>.<br>Also, added DOS mod <span class="italic">Jaffar Strikes Back</span> to the <a href="custom_levels.php?mod=0000205">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-12-05">
+		<html><![CDATA[Added two more trick videos (136 and 137) to the <a href="documentation.php?doc=TricksPage4">Documentation</a>.<br>Also, added the new <span class="italic">apoplexy</span> release (version 3.7) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2019-12-03">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#135">Documentation</a>.]]></html>
+	</item>
+	<item date="2019-11-17">
+		<html><![CDATA[Added DOS mod <span class="italic">Lihinghntom's Palace</span> to the <a href="custom_levels.php?mod=0000203">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-11-07">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#134">Documentation</a>.]]></html>
+	</item>
+	<item date="2019-11-02">
+		<html><![CDATA[Added DOS mod <span class="italic">Illusions of Persia</span> to the <a href="custom_levels.php?mod=0000202">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-10-25">
+		<html><![CDATA[Added DOS mod <span class="italic">Jaffar's Multi-Life</span> to the <a href="custom_levels.php?mod=0000201">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-10-17">
+		<html><![CDATA[The <span class="italic">lemsop</span> level editor can now be downloaded via <a href="level_editors.php?editor=lemsop">Level Editors</a>.]]></html>
+	</item>
+	<item date="2019-10-13">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.20) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2019-09-26">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#133">Documentation</a>.<br>Also, added DOS mod <span class="italic">Neon Persia</span> to the <a href="custom_levels.php?mod=0000200">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-09-22">
+		<html><![CDATA[Added DOS mod <span class="italic">Quest for the Sword</span> to the <a href="custom_levels.php?mod=0000199">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-09-04">
+		<html><![CDATA[Added DOS mod <span class="italic">Persian Sweet Dreams</span> to the <a href="custom_levels.php?mod=0000198">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-08-24">
+		<html><![CDATA[Added SNES mod <span class="italic">Levels of Illusion (SNES)</span> to the <a href="custom_levels.php?mod=S000025">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-07-25">
+		<html><![CDATA[Added DOS mod <span class="italic">Levels of Illusion</span> to the <a href="custom_levels.php?mod=0000197">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-07-22">
+		<html><![CDATA[Added Mega Drive mod <span class="italic">PoP Hack</span> to the <a href="/custom_levels.php?action=Other_mods">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-07-20">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#132">Documentation</a>.]]></html>
+	</item>
+	<item date="2019-07-07">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#131">Documentation</a>.]]></html>
+	</item>
+	<item date="2019-07-05">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#130">Documentation</a>.]]></html>
+	</item>
+	<item date="2019-05-27">
+		<html><![CDATA[Added DOS mod <span class="italic">Jaffar's Resistance</span> to the <a href="custom_levels.php?mod=0000196">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-05-25">
+		<html><![CDATA[Added DOS mod <span class="italic">Little Palace</span> to the <a href="custom_levels.php?mod=0000195">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2019-04-14">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.6) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2019-03-31">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.19) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2019-03-21">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.5) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2019-03-15">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#129">Documentation</a>.]]></html>
+	</item>
+	<item date="2019-03-13">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#128">Documentation</a>.]]></html>
+	</item>
+	<item date="2019-02-09">
+		<html><![CDATA[Added two more trick videos (126 and 127) to the <a href="documentation.php?doc=TricksPage4">Documentation</a>.]]></html>
+	</item>
+	<item date="2019-01-06">
+		<html><![CDATA[Added DOS mod <span class="italic">Temple of Chaos</span> to the <a href="custom_levels.php?mod=0000194">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-12-23">
+		<html><![CDATA[Added an updated version of the <span class="italic">Prince of Persia 1 Special Events</span> document to the <a href="documentation.php?doc=PoP1SpecialEvents">Documentation</a> section.]]></html>
+	</item>
+	<item date="2018-12-16">
+		<html><![CDATA[Added SNES mod <span class="italic">The Queen Of Light</span> to the <a href="custom_levels.php?mod=S000024">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-12-06">
+		<html><![CDATA[Added an "Other mods" page to the <a href="custom_levels.php?action=Other_mods">Custom Levels</a>, with <span class="italic">First One</span> and <span class="italic">Jaffar24's Levels</span>.]]></html>
+	</item>
+	<item date="2018-12-05">
+		<html><![CDATA[Added DOS mod <span class="italic">Red Prince</span> to the <a href="custom_levels.php?mod=0000193">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-10-20">
+		<html><![CDATA[Added three more trick videos (123, 124 and 125) to the <a href="documentation.php?doc=TricksPage4">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-10-14">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#122">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-10-06">
+		<html><![CDATA[Added DOS mod <span class="italic">Original Revisited</span> to the <a href="custom_levels.php?mod=0000192">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-09-03">
+		<html><![CDATA[The <span class="italic">popyorn</span> level editor can now be downloaded via <a href="level_editors.php?editor=popyorn">Level Editors</a>.]]></html>
+	</item>
+	<item date="2018-06-27">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.4) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2018-06-20">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage4#121">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-06-18">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#120">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-06-12">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#119">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-06-03">
+		<html><![CDATA[Added 4 new tricks (115-118) to the <a href="documentation.php?doc=TricksPage3#115">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-06-02">
+		<html><![CDATA[The <span class="italic">pophale</span> level editor can now be downloaded via <a href="level_editors.php?editor=pophale">Level Editors</a>.]]></html>
+	</item>
+	<item date="2018-05-27">
+		<html><![CDATA[Added 2 new tricks (113, 114) to the <a href="documentation.php?doc=TricksPage3#113">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-05-16">
+		<html><![CDATA[Added <span class="italic">Barre's Alternative</span>, <span class="italic">Rafay's Building</span> and <span class="italic">Barre's Creepy Way</span> to the <a href="custom_levels.php">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-05-13">
+		<html><![CDATA[Added the new <span class="italic">PR</span> (version 1.3.1) to the <a href="other_useful_tools.php?tool=PR">Other Useful Tools</a> section.<br>Also, added SNES mod <span class="italic">Twin Brother</span> to the <a href="custom_levels.php?mod=S000023">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-05-04">
+		<html><![CDATA[Added <span class="italic">Hard Jump (SuavePrince)</span> to the <a href="custom_levels.php?mod=0000188">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-04-29">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#112">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-04-24">
+		<html><![CDATA[Added <span class="italic">Mysterious Castle 2</span> to the <a href="custom_levels.php?mod=0000187">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-04-16">
+		<html><![CDATA[Added 2 new tricks (110, 111) to the <a href="documentation.php?doc=TricksPage3#110">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-04-15">
+		<html><![CDATA[Added 3 new tricks (107-109) to the <a href="documentation.php?doc=TricksPage3#107">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-04-14">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.3) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2018-04-09">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#106">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-04-01">
+		<html><![CDATA[Added the new <span class="italic">leapop</span> release (version 0.9b) to the <a href="level_editors.php?editor=leapop">Level Editors</a>.<br>Also, added a page about PoP for Apple II Easter eggs to the <a href="documentation.php?doc=PoP_Easter_Eggs">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-03-31">
+		<html><![CDATA[Added <span class="italic">The Prince of Persia in the Pyramid</span> to the <a href="custom_levels.php?mod=0000186">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-03-24">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.18.1) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2018-03-21">
+		<html><![CDATA[Added <span class="italic">To Victory</span> to the <a href="custom_levels.php?mod=0000185">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2018-03-17">
+		<html><![CDATA[Added <span class="italic">Levels for the Brave</span> to the <a href="custom_levels.php?mod=0000184">Custom Levels</a>.<br>Also, added the new <span class="italic">SDLPoP</span> release (version 1.18) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2018-03-11">
+		<html><![CDATA[Added additional overviews of custom DAT files to the <a href="custom_levels.php">Custom Levels</a> section (FAT.DAT, SHADOW.DAT, VIZIER.DAT, SKEL.DAT, PRINCE.DAT, GUARD.DAT).]]></html>
+	</item>
+	<item date="2018-02-21">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.2) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2018-02-17">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#105">Documentation</a>.]]></html>
+	</item>
+	<item date="2018-02-11">
+		<html><![CDATA[Updated <span class="italic">CusPop</span> in the <a href="other_useful_tools.php?tool=CusPop_and_CusAsm">Other Useful Tools</a> section, it can now modify even more guard details.]]></html>
+	</item>
+	<item date="2018-02-07">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.1) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2018-02-05">
+		<html><![CDATA[Added <span class="italic">Mysterious Castle</span> to the <a href="custom_levels.php?mod=0000183">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-12-26">
+		<html><![CDATA[Added the new <span class="italic">gpl2jascpal</span> (version 0.2) to the <a href="other_useful_tools.php?tool=gpl2jascpal">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2017-12-16">
+		<html><![CDATA[Added SNES mod <span class="italic">Sword of Gold</span> to the <a href="custom_levels.php?mod=S000022">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-12-10">
+		<html><![CDATA[Added <span class="italic">Ghost of Persia</span> to the <a href="custom_levels.php?mod=0000182">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-09-27">
+		<html><![CDATA[Added the new <span class="italic">poplaun</span> (version 0.2) to the <a href="other_useful_tools.php?tool=poplaun">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2017-09-26">
+		<html><![CDATA[Added the <a href="chomper_dance.php">Chomper Dance</a> page.]]></html>
+	</item>
+	<item date="2017-09-09">
+		<html><![CDATA[Added <span class="italic">Super Adventure</span> to the <a href="custom_levels.php?mod=0000181">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-09-06">
+		<html><![CDATA[Added SNES mod <span class="italic">Shadow's Story</span> to the <a href="custom_levels.php?mod=S000021">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-08-23">
+		<html><![CDATA[Added <span class="italic">The Prince in the Illusion 2</span> to the <a href="custom_levels.php?mod=0000180">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-08-05">
+		<html><![CDATA[Added <span class="italic">Great Castle</span> to the <a href="custom_levels.php?mod=0000179">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-08-04">
+		<html><![CDATA[Improved the email service: the emails that subscribers receive now also mention the mod and commenter/replayer name, plus link to a new <a href="email_service.php">Email Service</a> page that explains how to (un)subscribe.]]></html>
+	</item>
+	<item date="2017-07-16">
+		<html><![CDATA[Restyled the website using a responsive design, to make it better accessible from smartphones, while keeping hyperlinks intact to prevent link rot.<br>Also, added a simple <a target="_blank" href="news_rss.php">RSS feed</a>, and now defaulting to httpS.]]></html>
+	</item>
+	<item date="2017-07-05">
+		<html><![CDATA[Added an overview of custom KID.DAT files to the <a href="custom_levels.php?action=KID.DAT">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2017-06-10">
+		<html><![CDATA[Added <span class="italic">Little Time</span> to the <a href="custom_levels.php?mod=0000178">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-06-07">
+		<html><![CDATA[Added (a second mod named) <span class="italic">Flying Prince</span> to the <a href="custom_levels.php?mod=0000177">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-06-03">
+		<html><![CDATA[Added <span class="italic">The Prince in the Illusion</span> to the <a href="custom_levels.php?mod=0000176">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-05-16">
+		<html><![CDATA[Added <span class="italic">Original Complex Version</span> to the <a href="custom_levels.php?mod=0000175">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-05-07">
+		<html><![CDATA[Added <span class="italic">The Prince in the Labyrinth</span> to the <a href="custom_levels.php?mod=0000174">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-04-30">
+		<html><![CDATA[Added <span class="italic">Army of Clones</span> to the <a href="custom_levels.php?mod=0000173">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-04-23">
+		<html><![CDATA[Added the new <span class="italic">drawmap</span> (version 0.4) to the <a href="other_useful_tools.php?tool=drawmap">Other Useful Tools</a>.<br>Also, added <span class="italic">Alternate Levels</span> to the <a href="custom_levels.php?mod=0000172">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-04-09">
+		<html><![CDATA[Added the new <span class="italic">Total Pack</span> (version 3.5) to the <a href="other_useful_tools.php?tool=Total_Packs">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2017-04-08">
+		<html><![CDATA[Added <span class="italic">Damian0's Levels</span> to the <a href="custom_levels.php?mod=0000171">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-04-07">
+		<html><![CDATA[Added <span class="italic">Jaffar Never Dies</span> to the <a href="custom_levels.php?mod=0000170">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-04-02">
+		<html><![CDATA[The <span class="italic">leapop</span> level editor can now be downloaded via <a href="level_editors.php?editor=leapop">Level Editors</a>.]]></html>
+	</item>
+	<item date="2017-03-31">
+		<html><![CDATA[Converted the overview of <a href="level_editors.php">Level Editors</a> into a table.]]></html>
+	</item>
+	<item date="2017-03-03">
+		<html><![CDATA[Added the new <span class="italic">Total Pack</span> (version 3.01) to the <a href="other_useful_tools.php?tool=Total_Packs">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2017-03-02">
+		<html><![CDATA[Now allowing/processing [spoiler]...[/spoiler] BBCode in comments.]]></html>
+	</item>
+	<item date="2017-02-26">
+		<html><![CDATA[The <span class="italic">poplaun</span> tool can now be downloaded via <a href="other_useful_tools.php?tool=poplaun">Other Useful Tools</a>.]]></html>
+	</item>
+	<item date="2017-02-24">
+		<html><![CDATA[Added SNES mod <span class="italic">The Two Princesses</span> to the <a href="custom_levels.php?mod=S000020">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-02-12">
+		<html><![CDATA[Added <span class="italic">Battle Hardened: Nazaam's Revolt</span> to the <a href="custom_levels.php?mod=0000169">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-02-05">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.17) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2017-01-14">
+		<html><![CDATA[Added SNES mod <span class="italic">Sunshine Remix</span> to the <a href="custom_levels.php?mod=S000019">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-01-12">
+		<html><![CDATA[Visitors can now get a random mod and level suggestion via <a href="custom_levels.php?action=Random" rel="nofollow">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2017-01-09">
+		<html><![CDATA[Users of this website can now upload and share <span class="italic">SDLPoP</span> and <span class="italic">MININIM</span> replay files.<br>Visit the <a href="custom_levels.php?action=Replays">Custom Levels</a> section (and individual mod pages) for more information.]]></html>
+	</item>
+	<item date="2017-01-05">
+		<html><![CDATA[Added SNES mods <span class="italic">Time Only Knows</span> and <span class="italic">The Kingdom of the Dead</span> to the <a href="custom_levels.php">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2016-12-22">
+		<html><![CDATA[Added <span class="italic">Twisted Ideas</span> to the <a href="custom_levels.php?mod=0000168">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2016-12-15">
+		<html><![CDATA[The <span class="italic">lemdop</span> level editor can now be downloaded via <a href="level_editors.php?editor=lemdop">Level Editors</a>.]]></html>
+	</item>
+	<item date="2016-11-21">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#104">Documentation</a>.]]></html>
+	</item>
+	<item date="2016-11-07">
+		<html><![CDATA[The <span class="italic">legbop</span> level editor can now be downloaded via <a href="level_editors.php?editor=legbop">Level Editors</a>.]]></html>
+	</item>
+	<item date="2016-10-21">
+		<html><![CDATA[Added <span class="italic">The Amazing Prince of Persia</span> to the <a href="custom_levels.php?mod=0000167">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2016-09-25">
+		<html><![CDATA[Prince of Persia 2 for Mac can now be downloaded via <a href="get_the_games.php?game=2_Mac">Get the Games</a>.]]></html>
+	</item>
+	<item date="2016-08-13">
+		<html><![CDATA[Added <span class="italic">During Sleep 3</span> to the <a href="custom_levels.php?mod=0000166">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2016-08-08">
+		<html><![CDATA[Added a new <span class="italic">RoomShaker</span> release (1.80) to the <a href="level_editors.php?editor=RoomShaker1">Level Editors</a> section.<br>Also, added a new version of the <span class="italic">Prince of Persia 1 Guard Types</span> document to the <a href="documentation.php?doc=PoP1GuardTypes">Documentation</a>.]]></html>
+	</item>
+	<item date="2016-07-28">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#103">Documentation</a>.]]></html>
+	</item>
+	<item date="2016-07-27">
+		<html><![CDATA[Added <span class="italic">Dark Shadows</span> to the <a href="custom_levels.php?mod=0000165">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2016-07-10">
+		<html><![CDATA[Moved content from the Walkthroughs page to the Documentation, then created a new <a href="comics_art.php">Comics / Art</a> section.]]></html>
+	</item>
+	<item date="2016-07-03">
+		<html><![CDATA[Added a page to search for specific tricks to the <a href="documentation.php?doc=TricksSearch">Documentation</a>.<br>Also, added another trick video to the <a href="documentation.php?doc=TricksPage3#102">Documentation</a>.]]></html>
+	</item>
+	<item date="2016-06-09">
+		<html><![CDATA[Added <span class="italic">1 Level More</span> to the <a href="custom_levels.php?mod=0000164">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2016-05-25">
+		<html><![CDATA[Added savefile_cheater.zip and PoPSGE.zip to <a href="other_useful_tools.php?tool=sav_hof">Other Useful Tools</a>.]]></html>
+	</item>
+	<item date="2016-05-14">
+		<html><![CDATA[Added <span class="italic">Prince of Persia Revisited</span> to the <a href="custom_levels.php?mod=0000163">Custom Levels</a>.<br>Also, the savof application can now be downloaded via <a href="other_useful_tools.php?tool=sav_hof">Other Useful Tools</a>.]]></html>
+	</item>
+	<item date="2016-05-10">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#101">Documentation</a>.]]></html>
+	</item>
+	<item date="2016-05-08">
+		<html><![CDATA[Added <span class="italic">Prince of Persia Guard Revolt</span> to the <a href="custom_levels.php?mod=0000162">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2016-03-21">
+		<html><![CDATA[Added <span class="italic">Castle Jaffar</span> to the <a href="custom_levels.php?mod=0000161">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2016-03-02">
+		<html><![CDATA[Added the new <span class="italic">MININIM</span> release (version 0.10) to <a href="get_the_games.php?game=MININIM">Get the Games</a>.]]></html>
+	</item>
+	<item date="2016-03-01">
+		<html><![CDATA[Added <span class="italic">Hidden Levels</span> to the <a href="custom_levels.php?mod=0000160">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2016-02-17">
+		<html><![CDATA[Added <span class="italic">MININIM</span> (version 0.9.2) to <a href="get_the_games.php?game=MININIM">Get the Games</a>.]]></html>
+	</item>
+	<item date="2016-02-05">
+		<html><![CDATA[Added <span class="italic">Jaffar's Rooms</span> to the <a href="custom_levels.php?mod=0000159">Custom Levels</a>.<br>Also, popot.org has its 5 year anniversary!]]></html>
+	</item>
+	<item date="2016-02-04">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.0) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2016-01-16">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.0 RC3) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2016-01-02">
+		<html><![CDATA[Added a basic CusAsm tutorial to <a href="other_useful_tools.php?tool=CusPop_and_CusAsm">Other Useful Tools</a>.<br>Also, added the new <span class="italic">SDLPoP</span> release (version 1.16) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2016-01-01">
+		<html><![CDATA[Added a new <span class="italic">Pr1SnesLevEd</span> release (1 January 2016) to the <a href="level_editors.php?editor=Pr1SnesLevEd">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2015-12-31">
+		<html><![CDATA[Added a new <span class="italic">CusAsm</span> release (version 2.2.1) to the <a href="other_useful_tools.php?tool=CusPop_and_CusAsm">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2015-12-30">
+		<html><![CDATA[Added a new <span class="italic">CusAsm</span> release (version 2.2) to the <a href="other_useful_tools.php?tool=CusPop_and_CusAsm">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2015-12-29">
+		<html><![CDATA[Added a document that describes the special events that occur in PoP1 for SNES to the <a href="documentation.php?doc=PoP1SSpecialEvents">Documentation</a>.]]></html>
+	</item>
+	<item date="2015-12-25">
+		<html><![CDATA[Added the new <span class="italic">NESPrincEd</span> release (version 1.2.2) to the <a href="level_editors.php?editor=NESPrincEd">Level Editors</a>.]]></html>
+	</item>
+	<item date="2015-12-21">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.0 RC2) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2015-12-13">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 3.0 RC1) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2015-12-06">
+		<html><![CDATA[Added version 1.1 of Prince of Persia 1 for DOS to the <a href="get_the_games.php?game=1">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2015-12-05">
+		<html><![CDATA[Added an updated version of the <span class="italic">PoP1 Copy Protection</span> document to the <a href="documentation.php?doc=PoP1CopyProtection">Documentation</a> section.]]></html>
+	</item>
+	<item date="2015-11-24">
+		<html><![CDATA[Added <span class="italic">The Deserts of Persia</span> to the <a href="custom_levels.php?mod=0000158">Custom Levels</a>.<br>Also, added another trick video to the <a href="documentation.php?doc=TricksPage3#100">Documentation</a>.]]></html>
+	</item>
+	<item date="2015-11-08">
+		<html><![CDATA[Added a simple overview of PoP1 for SNES passwords to <a href="get_the_games.php?game=1_SNES">Get the Games</a>.]]></html>
+	</item>
+	<item date="2015-11-04">
+		<html><![CDATA[Added <span class="italic">The Evil Twin</span> to the <a href="custom_levels.php?mod=0000157">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-10-24">
+		<html><![CDATA[Added <span class="italic">Princess of Persia</span> to the <a href="custom_levels.php?mod=0000156">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-09-25">
+		<html><![CDATA[Added <span class="italic">Jaffar Not Forget 2 (The Temple of Terror)</span> to the <a href="custom_levels.php?mod=0000155">Custom Levels</a>.<br>Also, added a document that describes the regional differences between PoP1 for SNES releases to the <a href="documentation.php?doc=PoP1_for_SNES_Regional_Differences">Documentation</a>.]]></html>
+	</item>
+	<item date="2015-08-29">
+		<html><![CDATA[Added SNES mod <span class="italic">The Lost Bottle (Chapter 1)</span> to the <a href="custom_levels.php?mod=S000016">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-08-21">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 2.7) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2015-08-17">
+		<html><![CDATA[Added <span class="italic">Impossible!</span> to the <a href="custom_levels.php?mod=0000154">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-08-10">
+		<html><![CDATA[Added <span class="italic">PoP2 Tricknasium</span> and <span class="italic">PoP2 Parkour</span> to the <a href="custom_levels.php">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-08-07">
+		<html><![CDATA[Added an updated version of the <span class="italic">Prince of Persia 1 Special Events</span> document to the <a href="documentation.php?doc=PoP1SpecialEvents">Documentation</a> section.]]></html>
+	</item>
+	<item date="2015-08-06">
+		<html><![CDATA[Added a new version of the <span class="italic">Prince of Persia 1 Guard Types</span> document to the <a href="documentation.php?doc=PoP1GuardTypes">Documentation</a>.]]></html>
+	</item>
+	<item date="2015-08-05">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.15) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.<br>Also, added sorting options to the main overview of <a href="custom_levels.php">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-08-02">
+		<html><![CDATA[Added <span class="italic">Secrets of the Citadel</span> to the <a href="custom_levels.php?mod=0000153">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-07-27">
+		<html><![CDATA[Added SNES mod <span class="italic">Battle Royale</span> to the <a href="custom_levels.php?mod=S000015">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-06-21">
+		<html><![CDATA[Added <span class="italic">Jaffar Is The King</span> to the <a href="custom_levels.php?mod=0000152">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-06-12">
+		<html><![CDATA[Added SNES mod <span class="italic">The Castle of War</span> and DOS mod <span class="italic">Ipank's Levels</span> to the <a href="custom_levels.php">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-06-04">
+		<html><![CDATA[Added a new <span class="italic">Pr1SnesLevEd</span> release (3 June 2015) to the <a href="level_editors.php?editor=Pr1SnesLevEd">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2015-05-27">
+		<html><![CDATA[Added <span class="italic">SNES Remnants</span> and <span class="italic">SNES Level 15</span> to the <a href="custom_levels.php">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-05-10">
+		<html><![CDATA[Added <span class="italic">The Princess is Mine</span> to the <a href="custom_levels.php?mod=0000148">Custom Levels</a>.<br>Also, added the new <span class="italic">PrinHackEd</span> release (version 2.1) to <a href="other_useful_tools.php?tool=PrinHackEd">Other Useful Tools</a>.]]></html>
+	</item>
+	<item date="2015-05-03">
+		<html><![CDATA[Added <span class="italic">The Tricky Tower</span> to the <a href="custom_levels.php?mod=0000147">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-04-27">
+		<html><![CDATA[Added SNES mod <span class="italic">Hell of a Palace</span> to the <a href="custom_levels.php?mod=S000013">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-04-07">
+		<html><![CDATA[Added <span class="italic">Story Retold</span> to the <a href="custom_levels.php?mod=0000146">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-02-23">
+		<html><![CDATA[Added <span class="italic">The Resurrection Of Jaffar And The Revolt Of The Guards</span> to the <a href="custom_levels.php?mod=0000145">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-02-16">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.14) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2015-02-14">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.13) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2015-02-12">
+		<html><![CDATA[Added <span class="italic">Lost in Errors</span> to the <a href="custom_levels.php?mod=0000144">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-01-23">
+		<html><![CDATA[Added <span class="italic">Jaffar Not Forget</span> to the <a href="custom_levels.php?mod=0000143">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2015-01-02">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#99">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-12-20">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.12) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2014-12-09">
+		<html><![CDATA[Added the new <span class="italic">PR</span> (version 1.3.1 pre-release 2) to the <a href="other_useful_tools.php?tool=PR">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2014-12-05">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#98">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-11-21">
+		<html><![CDATA[Added versions 1.3 and 1.4 of Prince of Persia 1 for DOS to the <a href="get_the_games.php?game=1">Get the Games</a> section.<br>(More than 3.5 years after 1.0 was added.)<br>Also, added another trick video to the <a href="documentation.php?doc=TricksPage3#97">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-11-20">
+		<html><![CDATA[Added a new <span class="italic">CusPop</span> release (version 2.2) to the <a href="other_useful_tools.php?tool=CusPop_and_CusAsm">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2014-11-13">
+		<html><![CDATA[Added <span class="italic">The Prince Mystery Dungeon</span> to the <a href="custom_levels.php?mod=0000142">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-11-09">
+		<html><![CDATA[Added <span class="italic">King of Persia</span> to the <a href="custom_levels.php?mod=0000141">Custom Levels</a>.<br>Also added 3 new tricks (94-96) to the <a href="documentation.php?doc=TricksPage3#94">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-11-06">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#93">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-11-05">
+		<html><![CDATA[Added 4 new tricks (89-92) to the <a href="documentation.php?doc=TricksPage3#89">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-11-04">
+		<html><![CDATA[Added <span class="italic">Training Lessons</span> to the <a href="custom_levels.php?mod=S000012">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-11-03">
+		<html><![CDATA[Added <span class="italic">Istaria's custom maps</span> to the <a href="custom_levels.php?mod=0000140">Custom Levels</a>.<br>It was released in 2008, but only recently resurfaced.]]></html>
+	</item>
+	<item date="2014-10-28">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.11) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2014-10-25">
+		<html><![CDATA[The height of this website's content area now roughly matches the browser's viewport height.<br>Also, added <span class="italic">Trick of Through</span> to the <a href="custom_levels.php?mod=0000139">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-10-12">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.10) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.]]></html>
+	</item>
+	<item date="2014-09-28">
+		<html><![CDATA[Added the new <span class="italic">SDLPoP</span> release (version 1.09) to <a href="get_the_games.php?game=SDLPoP">Get the Games</a>.<br>Also added another trick video to the <a href="documentation.php?doc=TricksPage3#88">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-09-27">
+		<html><![CDATA[Added a page about <span class="italic">SDLPoP</span> to the <a href="get_the_games.php?game=SDLPoP">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2014-09-24">
+		<html><![CDATA[All PoP1 for DOS music can now be downloaded as MP3s, FLACs and OGGs, via <a href="get_the_games.php?game=1">Get the Games</a>.]]></html>
+	</item>
+	<item date="2014-09-19">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage3#87">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-09-18">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 2.6b) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2014-09-14">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 2.5.1) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2014-09-09">
+		<html><![CDATA[Added PoP2 mod <span class="italic">ZethHolyblade's [Hardcore] PoP2</span> to the <a href="custom_levels.php?mod=F000006">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-08-31">
+		<html><![CDATA[Added two more trick videos (85 and 86) to the <a href="documentation.php?doc=TricksPage3">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-08-24">
+		<html><![CDATA[Added an e-mail service. It allows registered users to 'subscribe' to either some (via their individual pages) or all (via the Settings) mods, and subsequently receive e-mails when new comments have been added.]]></html>
+	</item>
+	<item date="2014-08-17">
+		<html><![CDATA[Added SNES mod <span class="italic">New SNES mod</span> to the <a href="custom_levels.php?mod=S000011">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-08-13">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 2.5) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2014-08-08">
+		<html><![CDATA[Added a new version of the <span class="italic">PoP1 XML Format</span> document to the <a href="documentation.php?doc=PoP1_XML_Format">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-08-01">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 2.4) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.<br>Also added another trick video to the <a href="documentation.php?doc=TricksPage3#84">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-07-30">
+		<html><![CDATA[Added <span class="italic">Trick of Chomper</span> to the <a href="custom_levels.php?mod=0000138">Custom Levels</a>.<br>Also added a new version of the <span class="italic">PoP1 XML Format</span> document to the <a href="documentation.php?doc=PoP1_XML_Format">Documentation</a>.<br>And added the new <span class="italic">apoplexy</span> release (version 2.3.1) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2014-07-29">
+		<html><![CDATA[Added a document about the PoP1 XML format to the <a href="documentation.php?doc=PoP1_XML_Format">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-07-22">
+		<html><![CDATA[Awesome news: David is porting the Prince of Persia for DOS disassembly to Windows and Linux (using C and SDL). A solid, open source, playable pre-release is available <a target="_blank" href="https://forum.princed.org/viewtopic.php?f=69&amp;t=3512">here</a>.]]></html>
+	</item>
+	<item date="2014-07-11">
+		<html><![CDATA[Added <span class="italic">During Sleep 2 (Remix)</span> to the <a href="custom_levels.php?mod=0000137">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-07-10">
+		<html><![CDATA[Added an updated version of the <span class="italic">Prince of Persia 2 Special Events</span> document to the <a href="documentation.php?doc=PoP2SpecialEvents">Documentation</a> section.]]></html>
+	</item>
+	<item date="2014-07-07">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 2.3) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2014-06-22">
+		<html><![CDATA[Added a document that describes the special events that occur in PoP2 to the <a href="documentation.php?doc=PoP2SpecialEvents">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-06-07">
+		<html><![CDATA[Added a document that describes the differences between the DAT files of Prince of Persia 2 versions IR, 1.0 and 1.1 to the <a href="documentation.php?doc=PoP2_DAT_Differences">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-06-06">
+		<html><![CDATA[Added Prince of Persia 1 for Amiga to the <a href="get_the_games.php?game=1_Amiga">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2014-06-03">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 2.2b) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2014-05-29">
+		<html><![CDATA[Added <span class="italic">During Sleep 2 (Miracles)</span> to the <a href="custom_levels.php?mod=0000136">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-04-29">
+		<html><![CDATA[Added <span class="italic">New Mini Tricks</span> to the <a href="custom_levels.php?mod=0000135">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-04-28">
+		<html><![CDATA[Added three new mods by robert (<span class="italic">The Vizier's Kingdom</span>, <span class="italic">The Castle of Dreams</span> and <span class="italic">The Brave Prince</span>) to the <a href="custom_levels.php">Custom Levels</a>.<br>Also added the SNES version of <span class="italic">SmallDungMod</span> to the <a href="custom_levels.php?mod=S000010">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2014-04-25">
+		<html><![CDATA[Added <span class="italic">Trick of Tiles</span> to the <a href="custom_levels.php?mod=0000131">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-04-19">
+		<html><![CDATA[Added <span class="italic">SmallDungMod</span> to the <a href="custom_levels.php?mod=0000130">Custom Levels</a>.<br>Also added 13 new tricks (71-83) to the <a href="documentation.php?doc=TricksPage2#71">Documentation</a>.]]></html>
+	</item>
+	<item date="2014-04-16">
+		<html><![CDATA[Added <span class="italic">Definition Of The Time</span> to the <a href="custom_levels.php?mod=0000129">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-03-20">
+		<html><![CDATA[Added <span class="italic">PoP and the Temple of Bird Creatures</span> to the <a href="custom_levels.php?mod=F000005">Custom Levels</a>.<br>Also added <span class="italic">Prince of Persia During Sleep</span> to the <a href="custom_levels.php?mod=0000128">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2014-02-08">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 2.1b) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2014-01-17">
+		<html><![CDATA[Added a new <span class="italic">Pr1SnesLevEd</span> release (17 January 2014) to the <a href="level_editors.php?editor=Pr1SnesLevEd">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2014-01-08">
+		<html><![CDATA[Added <span class="italic">NESPrincEd</span> (1.0.7) to the <a href="level_editors.php?editor=NESPrincEd">Level Editors</a>.<br>Also added Prince of Persia 1 for NES to the <a href="get_the_games.php?game=1_NES">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2014-01-01">
+		<html><![CDATA[Added <span class="italic">Micro Palace</span> to the <a href="custom_levels.php?mod=0000127">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-12-28">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 2.0, with PoP2 support!) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a> section.<br>(A separate news article about this, with lots of screenshots, is available <a href="news.php?id=apoplexy-2.0">here</a>.)]]></html>
+	</item>
+	<item date="2013-12-27">
+		<html><![CDATA[Added <span class="italic">Mini underground</span> to the <a href="custom_levels.php?mod=0000126">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-12-26">
+		<html><![CDATA[Sixteen additional hacks have been added to <span class="italic">CusPop</span> in the <a href="other_useful_tools.php?tool=CusPop_and_CusAsm">Other Useful Tools</a> section: blind mode, copy protection, edges of the level, allow triggering any tile, level 1 crouching start, level 1 music, sword, the skeleton, mirror image, falling exit, falling entry, Jaffar, fix gate drawing bug, fix gate sounds bug, fix infinite down bug, allow multiple exit doors.<br>Also, added <span class="italic">The Persian Secret Passage</span> to the <a href="custom_levels.php?mod=S000009">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2013-12-25">
+		<html><![CDATA[Added <span class="italic">Imprisoned... again</span> to the <a href="custom_levels.php?mod=0000125">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-11-23">
+		<html><![CDATA[Prince of Persia 1 for FM Towns can now be downloaded via <a href="get_the_games.php?game=1_FM_Towns">Get the Games</a>.]]></html>
+	</item>
+	<item date="2013-10-12">
+		<html><![CDATA[Added 11 additional events to the <a href="modding_timeline.php">Modding Timeline</a>.]]></html>
+	</item>
+	<item date="2013-09-23">
+		<html><![CDATA[Added the new <span class="italic">Total Pack</span> (version 3.0) to the <a href="other_useful_tools.php?tool=Total_Packs">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2013-09-20">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 1.9b) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2013-09-16">
+		<html><![CDATA[Added <span class="italic">The Great Adventure</span> to the <a href="custom_levels.php?mod=0000124">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-09-14">
+		<html><![CDATA[Added <span class="italic">Maksi Prince</span> to the <a href="custom_levels.php?mod=0000123">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-09-13">
+		<html><![CDATA[Added the new <span class="italic">Total Pack</span> (version 3.0b1) to the <a href="other_useful_tools.php?tool=Total_Packs">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2013-08-29">
+		<html><![CDATA[Added an updated version of the <span class="italic">Prince of Persia 1 Special Events</span> document to the <a href="documentation.php?doc=PoP1SpecialEvents">Documentation</a> section.]]></html>
+	</item>
+	<item date="2013-08-27">
+		<html><![CDATA[Added <span class="italic">The Dungeons of a Dark Magician</span> to the <a href="custom_levels.php?mod=0000122">Custom Levels</a> section.<br>It was released in 2008, but only recently resurfaced.]]></html>
+	</item>
+	<item date="2013-08-26">
+		<html><![CDATA[Added <span class="italic">Trick Bootcamp</span> to the <a href="custom_levels.php?mod=0000121">Custom Levels</a> section.<br>It was released in 2007, but only recently resurfaced.]]></html>
+	</item>
+	<item date="2013-08-23">
+		<html><![CDATA[Added a package with images of all original PoP1 levels to the <a href="get_the_games.php?game=1">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2013-08-20">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#70">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-08-15">
+		<html><![CDATA[Improved <a target="_blank" href="xml/mods.xml">mods.xml</a> to also include, for each mod, &lt;dt_last_update_zip&gt;.]]></html>
+	</item>
+	<item date="2013-08-14">
+		<html><![CDATA[Improved <a target="_blank" href="xml/mods.xml">mods.xml</a> to also include, for each mod, a &lt;comments&gt; block and &lt;dt_last_update&gt;.]]></html>
+	</item>
+	<item date="2013-08-11">
+		<html><![CDATA[Added an overview of custom VPALACE.DAT files to the <a href="custom_levels.php?action=VPALACE.DAT">Custom Levels</a> section.<br>Also added <a target="_blank" href="xml/mods.xml">mods.xml</a>, that automatically updates when mod related things change.]]></html>
+	</item>
+	<item date="2013-08-10">
+		<html><![CDATA[Added an overview of custom VDUNGEON.DAT files to the <a href="custom_levels.php?action=VDUNGEON.DAT">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-08-07">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#69">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-08-04">
+		<html><![CDATA[Added a document about the potions in the copy protection room to the <a href="documentation.php?doc=PoP1CopyProtection">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-08-02">
+		<html><![CDATA[Yet another trick video has been added to the <a href="documentation.php?doc=TricksPage2#68">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-07-31">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#67">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-07-25">
+		<html><![CDATA[Added a video about Prince of Persia modding to the <a href="documentation.php?doc=Video">Documentation</a> section.]]></html>
+	</item>
+	<item date="2013-07-24">
+		<html><![CDATA[Added a PoP1 to PoP2 level converter to the <a href="other_useful_tools.php?tool=Convert">Other Useful Tools</a>.<br>Also added a SNES Password Analyser to the <a href="other_useful_tools.php?tool=SNES_pass">Other Useful Tools</a>.<br>Added information about SNES passwords to the <a href="documentation.php?doc=SNES_pass">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-07-17">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#66">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-07-16">
+		<html><![CDATA[Added two more trick videos (64 and 65) to the <a href="documentation.php?doc=TricksPage2">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-07-15">
+		<html><![CDATA[Yet another trick video has been added to the <a href="documentation.php?doc=TricksPage2#63">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-07-14">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#62">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-07-09">
+		<html><![CDATA[Added a PoP1 FAQ/walkthrough document to the <a href="walkthroughs.php">Walkthroughs</a>.<br>Also added <span class="italic">A Place Of Despair</span> to the <a href="custom_levels.php?mod=0000120">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-07-07">
+		<html><![CDATA[Added a new <span class="italic">CusPop</span> release (version 2.1) to the <a href="other_useful_tools.php?tool=CusPop_and_CusAsm">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2013-07-06">
+		<html><![CDATA[Yet another trick video has been added to the <a href="documentation.php?doc=TricksPage2#61">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-07-05">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#60">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-06-26">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#59">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-06-24">
+		<html><![CDATA[Added three more trick videos (56, 57 and 58) to the <a href="documentation.php?doc=TricksPage2">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-06-16">
+		<html><![CDATA[Added ten old mods to the <a href="custom_levels.php">Custom Levels</a> (<span class="italic">Alternate 3</span>, six mods by Edward, two PoP2 sets by John, and a set by Mike).<br>Also added a page about <span class="italic">Cruel World</span> to the <a href="get_the_games.php?game=Cruel_World">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2013-06-13">
+		<html><![CDATA[Added <span class="italic">David's Levels</span> to the <a href="custom_levels.php?mod=0000111">Custom Levels</a> section.<br>It was released in 2007, but only recently resurfaced.]]></html>
+	</item>
+	<item date="2013-06-10">
+		<html><![CDATA[Added four old tools (Princed Graphics Extractor, PoPTools, Record and RunPOP) to a page in the <a href="other_useful_tools.php?tool=various_old">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2013-06-04">
+		<html><![CDATA[Prince of Persia 1 for the BK-0011M can now be downloaded via <a href="get_the_games.php?game=1_BK">Get the Games</a>.]]></html>
+	</item>
+	<item date="2013-05-29">
+		<html><![CDATA[Added a new <span class="italic">Pr1SnesLevEd</span> release (29 May 2013) to the <a href="level_editors.php?editor=Pr1SnesLevEd">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2013-05-22">
+		<html><![CDATA[Added the demo version of <span class="italic">Prince of Persia 1</span> for DOS to the <a href="get_the_games.php?game=1">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2013-05-21">
+		<html><![CDATA[Added some additional events to the <a href="modding_timeline.php">Modding Timeline</a>.<br>Also added the SNES version of <span class="italic">Miracles Don't Exist</span> to the <a href="custom_levels.php?mod=S000008">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-04-20">
+		<html><![CDATA[Added <span class="italic">Potion of Illusion</span> to the <a href="custom_levels.php?mod=0000110">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-04-16">
+		<html><![CDATA[Added Mechner's PoP2 design bible to the <a href="documentation.php?doc=OldDocuments">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-02-15">
+		<html><![CDATA[Added two more trick videos (54 and 55) to the <a href="documentation.php?doc=TricksPage2">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-02-14">
+		<html><![CDATA[Added <span class="italic">Babylon Tower Climb</span> to the <a href="custom_levels.php?mod=0000109">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-02-07">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#53">Documentation</a>.<br>Also, the <span class="italic">Pr2LevEd</span> level editor can now be downloaded via <a href="level_editors.php?editor=Pr2LevEd">Level Editors</a>.]]></html>
+	</item>
+	<item date="2013-02-03">
+		<html><![CDATA[Added two more trick videos (51 and 52) to the <a href="documentation.php?doc=TricksPage2">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-01-26">
+		<html><![CDATA[Added <span class="italic">Prince of Wateria</span> to the <a href="custom_levels.php?mod=0000108">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2013-01-20">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#50">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-01-13">
+		<html><![CDATA[Added <span class="italic">Potions of Delusion</span> to the <a href="custom_levels.php?mod=0000107">Custom Levels</a> section.<br>Also added another trick video to the <a href="documentation.php?doc=TricksPage2#49">Documentation</a>.]]></html>
+	</item>
+	<item date="2013-01-07">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#48">Documentation</a>.<br>Also added <span class="italic">PoP2 mod OPR</span> to the <a href="custom_levels.php?mod=F000002">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2013-01-06">
+		<html><![CDATA[Added two more trick videos to the <a href="documentation.php?doc=TricksPage2">Documentation</a>.<br>Added <span class="italic">Prince of Persia: Dungeons of Hell</span> to the <a href="custom_levels.php?mod=S000007">Custom Levels</a> section.<br>Also added <span class="italic">Into the Dungeons</span> to the <a href="custom_levels.php?mod=0000106">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2013-01-05">
+		<html><![CDATA[Added a new <span class="italic">Pr1SnesLevEd</span> release (17 December 2012) to the <a href="level_editors.php?editor=Pr1SnesLevEd">Level Editors</a> section.<br>Information about the <span class="italic">PoP1 Studio</span> has been added to the <a href="other_useful_tools.php?tool=PoP1_Studio">Other Useful Tools</a>.<br>Added <span class="italic">PoP2 Split Levels</span> to the <a href="custom_levels.php?mod=0000105">Custom Levels</a> section.<br>Also added <span class="italic">Iso's Mod (Training Levels)</span> to the <a href="custom_levels.php?mod=S000006">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2012-12-23">
+		<html><![CDATA[Added a page about <span class="italic">Arabian Nights 2D</span> to the <a href="get_the_games.php?game=AN">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2012-11-16">
+		<html><![CDATA[Added a new version of the <span class="italic">Prince of Persia 1 Guard Types</span> document to the <a href="documentation.php?doc=PoP1GuardTypes">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-11-14">
+		<html><![CDATA[Added a new version of the <span class="italic">Prince of Persia 1 Guard Types</span> document to the <a href="documentation.php?doc=PoP1GuardTypes">Documentation</a>.<br>Also, added some additional events to the <a href="modding_timeline.php">Modding Timeline</a>.]]></html>
+	</item>
+	<item date="2012-11-13">
+		<html><![CDATA[Added a document about PoP1 guard types to the <a href="documentation.php?doc=PoP1GuardTypes">Documentation</a> section.]]></html>
+	</item>
+	<item date="2012-11-05">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#45">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-11-03">
+		<html><![CDATA[Added a new <span class="italic">Pr1SnesLevEd</span> release (31 October 2012) to the <a href="level_editors.php?editor=Pr1SnesLevEd">Level Editors</a> section.<br>Also, added another trick video to the <a href="documentation.php?doc=TricksPage2#44">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-10-26">
+		<html><![CDATA[Added yet another trick video to the <a href="documentation.php?doc=TricksPage2#43">Documentation</a> section.]]></html>
+	</item>
+	<item date="2012-10-19">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=TricksPage2#42">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-10-13">
+		<html><![CDATA[Added the new PR (version 1.3) to the <a href="other_useful_tools.php?tool=PR">Other Useful Tools</a> section.<br>Also, added another trick video to the <a href="documentation.php?doc=TricksPage2#41">Documentation</a>.<br>Added some additional events to the <a href="modding_timeline.php">Modding Timeline</a>.]]></html>
+	</item>
+	<item date="2012-09-29">
+		<html><![CDATA[Added another trick video to the <a href="documentation.php?doc=Tricks#40">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-09-23">
+		<html><![CDATA[Added some additional information to the <span class="italic">Specifications of File Formats</span> in the <a href="documentation.php?doc=FormatSpecifications">Documentation</a> section.]]></html>
+	</item>
+	<item date="2012-09-12">
+		<html><![CDATA[Added eleven mods by robert to the <a href="custom_levels.php">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2012-09-11">
+		<html><![CDATA[Added <span class="italic">10th Dime(n)sion</span> to the <a href="custom_levels.php?mod=0000093">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-09-06">
+		<html><![CDATA[Added a page about Prince of Persia 1 tricks to the <a href="documentation.php?doc=Tricks">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-09-04">
+		<html><![CDATA[Added <span class="italic">The Quiet Levels</span> to the <a href="custom_levels.php?mod=S000005">Custom Levels</a> section.<br>Also added some additional events to the <a href="modding_timeline.php">Modding Timeline</a>.]]></html>
+	</item>
+	<item date="2012-09-02">
+		<html><![CDATA[Added six more mods by Muniko to the <a href="custom_levels.php">Custom Levels</a>.<br>Also added <span class="italic">Dark Castle</span> to the <a href="custom_levels.php?mod=S000004">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-09-01">
+		<html><![CDATA[Added <span class="italic">Jaffar's Island</span> to the <a href="custom_levels.php?mod=0000086">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-08-31">
+		<html><![CDATA[Added <span class="italic">Prince of Vat&iacute;sion</span> to the <a href="custom_levels.php?mod=S000003">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-08-30">
+		<html><![CDATA[Added <span class="italic">Popset 1</span> to the <a href="custom_levels.php?mod=0000085">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-08-29">
+		<html><![CDATA[Added <span class="italic">Prince of Persia: Remix III</span> to the <a href="custom_levels.php?mod=S000002">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-08-26">
+		<html><![CDATA[Added a document that describes the differences between the DAT files of Prince of Persia 1 versions 1.0, 1.3 and 1.4 to the <a href="documentation.php?doc=PoP1_DAT_Differences">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-08-25">
+		<html><![CDATA[Added <span class="italic">Prince of Venus</span> to the <a href="custom_levels.php?mod=0000084">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-08-24">
+		<html><![CDATA[Added <span class="italic">Lost In The Forest</span>, <span class="italic">Lost In The Forest 2</span> and <span class="italic">Lost In The Forest 3</span> to the <a href="custom_levels.php">Custom Levels</a>.<br><span class="italic">Lost In The Forest 2</span> is the first PoP2 mod that's being hosted on this website.]]></html>
+	</item>
+	<item date="2012-08-21">
+		<html><![CDATA[Added <span class="italic">Dungeon Quest</span> to the <a href="custom_levels.php?mod=0000081">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-08-18">
+		<html><![CDATA[Added <span class="italic">Prince of Persia Evolution</span> to the <a href="custom_levels.php?mod=S000001">Custom Levels</a> section.<br>It is the first SNES mod that's being hosted on this website.]]></html>
+	</item>
+	<item date="2012-08-17">
+		<html><![CDATA[Added <span class="italic">Prince Unique</span> to the <a href="custom_levels.php?mod=0000080">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-08-09">
+		<html><![CDATA[Added <span class="italic">mk Set 4</span> to the <a href="custom_levels.php?mod=0000079">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-08-05">
+		<html><![CDATA[Added <span class="italic">mk Set 3</span> to the <a href="custom_levels.php?mod=0000078">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-08-04">
+		<html><![CDATA[Added <span class="italic">Prince Fanny</span> to the <a href="custom_levels.php?mod=0000077">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-07-30">
+		<html><![CDATA[Added a new <span class="italic">Pr1SnesLevEd</span> release (29 June 201<span class="italic">1</span>) to the <a href="level_editors.php?editor=Pr1SnesLevEd">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2012-07-28">
+		<html><![CDATA[Added four mods to the <a href="custom_levels.php">Custom Levels</a> section, including <span class="italic">Extrem2</span>.]]></html>
+	</item>
+	<item date="2012-07-22">
+		<html><![CDATA[Added information about the visual tricks of <span class="italic">Repetition of Time</span> to the <a href="documentation.php?doc=RoT_Visual_Tricks">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-07-21">
+		<html><![CDATA[Added <span class="italic">Battle Hardened III</span> to the <a href="custom_levels.php?mod=0000072">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-07-18">
+		<html><![CDATA[Added the new <span class="italic">apoplexy</span> release (version 1.2b) to the <a href="level_editors.php?editor=apoplexy">Level Editors</a> section.]]></html>
+	</item>
+	<item date="2012-07-15">
+		<html><![CDATA[Added <span class="italic">PoP: Lost on Small Bricks</span> to the <a href="custom_levels.php?mod=0000071">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-07-14">
+		<html><![CDATA[Added an updated version of the <span class="italic">Prince of Persia 1 Special Events</span> document to the <a href="documentation.php?doc=PoP1SpecialEvents">Documentation</a> section.]]></html>
+	</item>
+	<item date="2012-07-12">
+		<html><![CDATA[Added a document that describes the special events that occur in PoP1 to the <a href="documentation.php?doc=PoP1SpecialEvents">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-07-11">
+		<html><![CDATA[Added a page about the overflow bug to the <a href="documentation.php?doc=OverflowBug">Documentation</a>.]]></html>
+	</item>
+	<item date="2012-07-07">
+		<html><![CDATA[Added <span class="italic">Extrem</span> to the <a href="custom_levels.php?mod=0000070">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-07-03">
+		<html><![CDATA[Added <span class="italic">Persian Nightmares</span> to the <a href="custom_levels.php?mod=0000069">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2012-07-01">
+		<html><![CDATA[Rewrote a lot of the PHP code.<br>Also, the <span class="italic">User Profile</span> pages now display information.]]></html>
+	</item>
+	<item date="2012-06-25">
+		<html><![CDATA[Added 56 additional events to the <a href="modding_timeline.php">Modding Timeline</a>.]]></html>
+	</item>
+	<item date="2012-04-21">
+		<html><![CDATA[On 17 April 2012, Jordan Mechner released the original Apple II (6502 assembly) source code of Prince of Persia. A page about this has been added to the <a href="get_the_games.php?game=1_Apple_II_Code">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2012-01-07">
+		<html><![CDATA[The <span class="italic">Total Packs</span> (PoP1, PoP2, C64) have been added to the <a href="other_useful_tools.php?tool=Total_Packs">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2011-12-12">
+		<html><![CDATA[Added content to the <a href="modding_timeline.php">Modding Timeline</a> section.]]></html>
+	</item>
+	<item date="2011-12-11">
+		<html><![CDATA[PRM (Princed Resource Manager) is now available via <a href="other_useful_tools.php?tool=PRM">Other Useful Tools</a>.<br>Also added information about CusAsm to the <a href="other_useful_tools.php?tool=CusPop_and_CusAsm">Other Useful Tools</a> section.<br>The <span class="italic">PrinHackEd</span> tool can now be downloaded via <a href="other_useful_tools.php?tool=PrinHackEd">Other Useful Tools</a>.]]></html>
+	</item>
+	<item date="2011-12-10">
+		<html><![CDATA[Added an old Hungarian document to the <a href="documentation.php?doc=POPKod">Documentation</a> section.]]></html>
+	</item>
+	<item date="2011-12-07">
+		<html><![CDATA[Prince of Persia 1 for Mac can now be downloaded via <a href="get_the_games.php?game=1_Mac">Get the Games</a>.<br>The <span class="italic">PoPMap</span> level editor (not to be confused with <span class="italic">POPMAP</span>) can now be downloaded via <a href="level_editors.php?editor=PoPMap">Level Editors</a>.<br>Added the <span class="italic">PoPE</span> save file editor to the overview of SAV and HOF editors in the <a href="other_useful_tools.php?tool=sav_hof">Other Useful Tools</a> section.<br>Also added cheat tool <span class="italic">TPC</span> to the <a href="other_useful_tools.php?tool=TPC">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2011-12-04">
+		<html><![CDATA[Added a page about <span class="italic">FreePrince</span> to the <a href="get_the_games.php?game=FreePrince">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2011-11-30">
+		<html><![CDATA[The <span class="italic">RoomShaker II</span> level editor can now be downloaded via <a href="level_editors.php?editor=RoomShaker2">Level Editors</a>.]]></html>
+	</item>
+	<item date="2011-11-22">
+		<html><![CDATA[Added a <a target="_blank" href="cnu_forum_archive/">cnu.net.ar forum archive</a> (4.2M in total).]]></html>
+	</item>
+	<item date="2011-06-27">
+		<html><![CDATA[Added a page about SAV and HOF editors to the <a href="other_useful_tools.php?tool=sav_hof">Other Useful Tools</a> section. It allows visitors to download PoPSGE, PoPTrain, PRINCED, Prinsav, Save Editor, Prinhof and PoP3 trainer.]]></html>
+	</item>
+	<item date="2011-06-26">
+		<html><![CDATA[The <span class="italic">POPMAP</span> level editor can now be downloaded via <a href="level_editors.php?editor=POPMAP">Level Editors</a>.]]></html>
+	</item>
+	<item date="2011-06-25">
+		<html><![CDATA[Added a <a target="_blank" href="popuw_forum_archive/">popuw.com forum archive</a> (156M in total).]]></html>
+	</item>
+	<item date="2011-06-06">
+		<html><![CDATA[Added the <span class="italic">Technical Information</span> document from 1989 to the <a href="documentation.php?doc=OldDocuments">Documentation</a> section.]]></html>
+	</item>
+	<item date="2011-06-05">
+		<html><![CDATA[Added the <span class="italic">Special Edition</span> of Prince of Persia to the <a href="get_the_games.php?game=SE">Get the Games</a> section.]]></html>
+	</item>
+	<item date="2011-06-02">
+		<html><![CDATA[Added <span class="italic">Super Prince of Persia</span> to the <a href="custom_levels.php?mod=0000068">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-05-29">
+		<html><![CDATA[The gpl2jascpal application can now be downloaded via <a href="other_useful_tools.php?tool=gpl2jascpal">Other Useful Tools</a>.]]></html>
+	</item>
+	<item date="2011-05-22">
+		<html><![CDATA[Added the <span class="italic">Changing Prince of Persia 1 Images</span> document to the <a href="documentation.php?doc=ChangingPoP1Images">Documentation</a> section.]]></html>
+	</item>
+	<item date="2011-05-08">
+		<html><![CDATA[Added a link to Jordan's old journals to the <a href="web_links.php">Web Links</a> section.<br>Also added Jordan Mechner's <a href="get_the_games.php?extra=PoP1_drawings">drawings</a> and rotoscoping <a href="get_the_games.php?extra=PoP1_rotoscoping">frames</a> for <span class="italic">Prince of Persia 1</span>.]]></html>
+	</item>
+	<item date="2011-05-04">
+		<html><![CDATA[Added <span class="italic">Dusk:Mod</span> to the <a href="custom_levels.php?mod=0000067">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-04-27">
+		<html><![CDATA[The PR application can now be downloaded via <a href="other_useful_tools.php?tool=PR">Other Useful Tools</a>.]]></html>
+	</item>
+	<item date="2011-04-17">
+		<html><![CDATA[Added 33 extra mods to the <a href="custom_levels.php">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-04-13">
+		<html><![CDATA[Added 23 extra mods to the <a href="custom_levels.php">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-04-11">
+		<html><![CDATA[The diffpop utility can now be downloaded via <a href="other_useful_tools.php?tool=diffpop">Other Useful Tools</a>.]]></html>
+	</item>
+	<item date="2011-03-31">
+		<html><![CDATA[Added <span class="italic">Mirages of Persia</span> to the <a href="custom_levels.php?mod=0000066">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-03-13">
+		<html><![CDATA[The drawmap utility can now be downloaded via <a href="other_useful_tools.php?tool=drawmap">Other Useful Tools</a>.<br>Added a playthrough video (by htamas) of all levels of <span class="italic">Prince of Persia 1</span> to the <a href="walkthroughs.php?show=0000001_000_001">Walkthroughs</a> section.<br>Added the <span class="italic">Specifications of File Formats</span> to the <a href="documentation.php?doc=FormatSpecifications">Documentation</a> section.]]></html>
+	</item>
+	<item date="2011-03-12">
+		<html><![CDATA[ExePack and UPackExe can now be downloaded via <a href="other_useful_tools.php?tool=pack_unpack">Other Useful Tools</a>.]]></html>
+	</item>
+	<item date="2011-03-11">
+		<html><![CDATA[Added <span class="italic">Secrets of Dungeons</span> to the <a href="custom_levels.php?mod=0000065">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-03-09">
+		<html><![CDATA[Added <span class="italic">Potion Puzzles</span> to the <a href="custom_levels.php?mod=0000036">Custom Levels</a> section.<br>Added <span class="italic">Jakim's Levels</span> to the <a href="custom_levels.php?mod=0000064">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-03-06">
+		<html><![CDATA[Prince of Persia 1 for SNES can now be downloaded via <a href="get_the_games.php?game=1_SNES">Get the Games</a>.<br>Also, the <span class="italic">Pr1SnesLevEd</span> level editor can now be downloaded via <a href="level_editors.php?editor=Pr1SnesLevEd">Level Editors</a>.]]></html>
+	</item>
+	<item date="2011-03-02">
+		<html><![CDATA[The <span class="italic">Princed</span> level editor can now be downloaded via <a href="level_editors.php?editor=Princed">Level Editors</a>.]]></html>
+	</item>
+	<item date="2011-03-01">
+		<html><![CDATA[The <span class="italic">apoplexy</span> level editor can now be downloaded via <a href="level_editors.php?editor=apoplexy">Level Editors</a>.]]></html>
+	</item>
+	<item date="2011-02-28">
+		<html><![CDATA[The <span class="italic">RoomShaker</span> level editor can now be downloaded via <a href="level_editors.php?editor=RoomShaker1">Level Editors</a>.]]></html>
+	</item>
+	<item date="2011-02-27">
+		<html><![CDATA[It is now possible to vote on <a href="custom_levels.php">Custom Levels</a>, for both enjoyment and difficulty.]]></html>
+	</item>
+	<item date="2011-02-26">
+		<html><![CDATA[Added the <span class="italic">Making Prince of Persia 3D</span> video to the <a href="get_the_games.php?extra=PoP3D_making">Get the Games</a> section.<br>Also, it's now possible for registered users to comment on <a href="custom_levels.php">Custom Levels</a>.]]></html>
+	</item>
+	<item date="2011-02-25">
+		<html><![CDATA[Added a playthrough video (by Norbert) of level 1 of <span class="italic">Kid of Persia</span> to the <a href="walkthroughs.php?show=0000046_001_001">Walkthroughs</a> section.]]></html>
+	</item>
+	<item date="2011-02-24">
+		<html><![CDATA[Added <span class="italic">Pirates of Persia</span> to the <a href="custom_levels.php?mod=0000047">Custom Levels</a> section.<br>Added <span class="italic">PoP: Tournament</span> to the <a href="custom_levels.php?mod=0000006">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-02-23">
+		<html><![CDATA[Added <span class="italic">SNES-PC-set</span> to the <a href="custom_levels.php?mod=0000042">Custom Levels</a> section.<br>Added <span class="italic">Kid of Persia</span> to the <a href="custom_levels.php?mod=0000046">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-02-20">
+		<html><![CDATA[Added the first mod, <span class="italic">4D Prince of Persia</span>, to the <a href="custom_levels.php?mod=0000002">Custom Levels</a> section.<br>Also new is the possibility to search for specific mods in the <a href="custom_levels.php?action=Search">Custom Levels</a> section.]]></html>
+	</item>
+	<item date="2011-02-19">
+		<html><![CDATA[Visitors can now <a href="user.php?action=Register">Register</a> accounts, <a href="user.php?action=Login">Login</a>, change their <a href="user.php?action=Settings">Settings</a>, and <a href="user.php?action=Logout">Logout</a>.]]></html>
+	</item>
+	<item date="2011-02-12">
+		<html><![CDATA[The Princedit level editor can now be downloaded via <a href="level_editors.php?editor=Princedit">Level Editors</a>.]]></html>
+	</item>
+	<item date="2011-02-10">
+		<html><![CDATA[The Prince of Persia 3D <span class="italic">demo</span> can now be downloaded via <a href="get_the_games.php?game=3D">Get the Games</a>.]]></html>
+	</item>
+	<item date="2011-02-07">
+		<html><![CDATA[Added two wallpapers to the Prince of Persia 3D page at <a href="get_the_games.php?game=3D">Get the Games</a>.<br>Added CusPop to the <a href="other_useful_tools.php">Other Useful Tools</a> section.]]></html>
+	</item>
+	<item date="2011-02-06">
+		<html><![CDATA[Prince of Persia 1 and 2 can now be downloaded via <a href="get_the_games.php">Get the Games</a>.<br>The <a href="community_forum.php">Community Forum</a> section now shows the princed.org forum.]]></html>
+	</item>
+	<item date="2011-02-05">
+		<html><![CDATA[Uploaded the first PHP files, a CSS file, and some images.]]></html>
+	</item>
+	<item date="2011-02-04">
+		<html><![CDATA[Registered the domain name popot.org.]]></html>
+	</item>
+</news>

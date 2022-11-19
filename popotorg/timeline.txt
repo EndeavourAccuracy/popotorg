@@ -1,0 +1,92 @@
+<script>
+Timeline_ajax_url="timeline/timeline_ajax/simile-ajax-api.js";
+Timeline_urlPrefix='timeline/timeline_js/';
+Timeline_parameters='bundle=true';
+</script>
+
+<script src="timeline/timeline_js/timeline-api.js"></script>
+<script src="timeline_controls.js"></script>
+
+<script>
+var tl;
+function onLoad() {
+	var eventSource = new Timeline.DefaultEventSource();
+	var theme1 = Timeline.ClassicTheme.create();
+
+	var bandInfos = [
+		Timeline.createBandInfo({
+			eventSource:eventSource,
+			date:"April 1 2003 00:00:00 GMT-0600",
+			width:"70%",
+			intervalUnit:Timeline.DateTime.MONTH,
+			intervalPixels:150,
+			theme:theme1
+		}),
+		Timeline.createBandInfo({
+			overview:true,
+			eventSource:eventSource,
+			date:"April 1 2003 00:00:00 GMT-0600",
+			width:"15%",
+			intervalUnit:Timeline.DateTime.YEAR,
+			intervalPixels:200,
+			theme:theme1
+		}),
+		Timeline.createBandInfo({
+			overview:true,
+			eventSource:eventSource,
+			date:"April 1 2003 00:00:00 GMT-0600",
+			width:"15%",
+			intervalUnit:Timeline.DateTime.YEAR,
+			intervalPixels:50,
+			theme:theme1
+		})
+	];
+
+	bandInfos[1].syncWith = 0;
+	bandInfos[2].syncWith = 0;
+	bandInfos[1].highlight = true;
+	bandInfos[2].highlight = true;
+
+	tl = Timeline.create(document.getElementById("my-timeline"), bandInfos);
+	Timeline.loadXML("popot_timeline.xml", function(xml, url) { eventSource.loadXML(xml, url); })
+	setupFilterHighlightControls(document.getElementById("controls"), tl, [0,1,2], theme1);
+}
+
+var resizeTimerID = null;
+function onResize() {
+	if (resizeTimerID == null) {
+		resizeTimerID = window.setTimeout(function() {
+			resizeTimerID = null;
+			tl.layout();
+		}, 500);
+	}
+}
+</script>
+
+<style type="text/css">
+#container {
+	height:300px;
+	width:100%;
+	margin-top:0;
+	position:relative;
+	background-image:url(images/timeline_back.png);
+	background-position:0;
+	padding:0;
+	margin-right:auto;
+	margin-left:auto;
+}
+.timeline-ether-weekends{ background:none !important; }
+.timeline-highlight-decorator{ background:none !important; }
+.timeline-highlight-point-decorator{ background:none !important; }
+.timeline-ether-highlight{ background:none !important; }
+.timeline-small-event-icon{ background:none !important; }
+.timeline-band-0 .timeline-ether-bg{ background:none !important; }
+.timeline-band-1 .timeline-ether-bg{ background:none !important; }
+.timeline-band-2 .timeline-ether-bg{ background:none !important; }
+.timeline-band-3 .timeline-ether-bg{ background:none !important; }
+.timeline-band { background:none !important; }
+.timeline-event-bubble-time { display:none; }
+#controls { width:100%; text-align:left; }
+#controls input { width:100px; }
+#controls td { padding:0; }
+</style>

@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- https://www.popot.org/popot_timeline.xml -->
+<data>
+
+	<!-- POPMAP -->
+	<event
+		textColor="black"
+		start="January 10 2000 00:00:00 GMT-0600"
+		title="Creation of the PoP thread at index.hu"
+		icon="timeline/timeline_js/images/dark-green-circle.png">
+		Creation of the PoP thread at index.hu. (&lt;a href="https://forum.index.hu/Article/showArticle?t=9011167"&gt;thread&lt;/a&gt;)
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 10, 2000&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 7 2000 00:00:00 GMT-0600"
+		title="Release of POPMAP."
+		icon="timeline/timeline_js/images/dark-green-circle.png">
+		Release of &lt;a href="level_editors.php?editor=POPMAP"&gt;POPMAP&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 7, 2000&lt;/span&gt;
+	</event>
+	<!-- POPMAP -->
+
+	<!-- SAV and HOF editors -->
+	<event
+		textColor="black"
+		start="July 29 1992 00:00:00 GMT-0600"
+		title="Prince of Persia Editor v1.0"
+		icon="timeline/timeline_js/images/gray-circle.png">
+		Version 1.0 of &lt;a href="other_useful_tools.php?tool=sav_hof"&gt;Prince of Persia Editor&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 29, 1992&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 5 2003 00:00:00 GMT-0600"
+		title="PRINCED SAV editor released"
+		icon="timeline/timeline_js/images/gray-circle.png">
+		Release of the &lt;a href="other_useful_tools.php?tool=sav_hof"&gt;PRINCED&lt;/a&gt; SAV editor.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 5, 2003&lt;/span&gt;
+	</event>
+	<!-- SAV and HOF editors -->
+
+	<!-- PRINCE.EXE tools -->
+	<event
+		textColor="black"
+		start="February 18 2009 00:00:00 GMT-0600"
+		title="CusPop v2.0"
+		icon="timeline/timeline_js/images/orange-circle.png">
+		Version 2.0 of &lt;a href="other_useful_tools.php?tool=CusPop_and_CusAsm"&gt;CusPop&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 18, 2009&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 19 2009 00:00:00 GMT-0600"
+		title="poirot announces CusPop v2.0"
+		icon="timeline/timeline_js/images/orange-circle.png">
+		poirot: "CusPop is back! Yessss, got time to fix it!!!! the new cuspop has been released!!!"
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=73&amp;t=638"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=CusPop_and_CusAsm"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 19, 2009&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 13 2009 00:00:00 GMT-0600"
+		title="PrinHackEd v1.0"
+		icon="timeline/timeline_js/images/orange-circle.png">
+		Version 1.0 of &lt;a href="other_useful_tools.php?tool=PrinHackEd"&gt;PrinHackEd&lt;/a&gt;.
+		&lt;br&gt;
+		mickey96: "I've created an Prince of Persia .exe editor for DOS." (&lt;a href="https://forum.princed.org/viewtopic.php?f=73&amp;t=1637"&gt;thread&lt;/a&gt;)
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 13, 2009&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 19 2009 00:00:00 GMT-0600"
+		title="PrinHackEd v1.1"
+		icon="timeline/timeline_js/images/orange-circle.png">
+		Version 1.1 of &lt;a href="other_useful_tools.php?tool=PrinHackEd"&gt;PrinHackEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 19, 2009&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 27 2011 00:00:00 GMT-0600"
+		title="diffpop v0.9"
+		icon="timeline/timeline_js/images/orange-circle.png">
+		Version 0.9 of &lt;a href="other_useful_tools.php?tool=diffpop"&gt;diffpop&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 27, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 27 2011 00:00:00 GMT-0600"
+		title="Norbert announces diffpop v0.9"
+		icon="timeline/timeline_js/images/orange-circle.png">
+		Norbert: "I have just finished and released the first version (direct link) of diffpop."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=68&amp;t=2909"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=diffpop"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 27, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 7 2013 00:00:00 GMT-0600"
+		title="CusPop v2.1"
+		icon="timeline/timeline_js/images/orange-circle.png">
+		Version 2.1 of &lt;a href="other_useful_tools.php?tool=CusPop_and_CusAsm"&gt;CusPop&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 7, 2013&lt;/span&gt;
+	</event>
+	<!-- PRINCE.EXE tools -->
+
+	<!-- FreePrince -->
+	<event
+		textColor="black"
+		start="May 10 2004 00:00:00 GMT-0600"
+		title="poirot about the language/library"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		poirot: "[W]e have decided to code it in ANSI C, using the SDL library but adding an abstraction layer in case we need to use any other library."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=77&amp;t=478"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/get_the_games.php?game=FreePrince"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 10, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 21 2004 00:00:00 GMT-0600"
+		title="FreePrince project start"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		Start of the &lt;a href="get_the_games.php?game=FreePrince"&gt;FreePrince&lt;/a&gt; project.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 21, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 11 2004 00:00:00 GMT-0600"
+		title="poirot about 2nd Lugfi conference"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		poirot: "During the Second Lugfi Conference we got the Freeprince kernel and graphics running, [...] FP is now in an advanced pre-alpha."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=77&amp;t=476"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/get_the_games.php?game=FreePrince"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 11, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 24 2004 00:00:00 GMT-0600"
+		title="FreePrince v0.2-pre-alpha"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		Version 0.2-pre-alpha of &lt;a href="get_the_games.php?game=FreePrince"&gt;FreePrince&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 24, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 29 2004 00:00:00 GMT-0600"
+		title="poirot: first FreePrince for Windows"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		poirot: "Today we could came up with the first windows version of FreePrince."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=77&amp;t=475"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/get_the_games.php?game=FreePrince"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 29, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 21 2004 00:00:00 GMT-0600"
+		title="FreePrince v0.3-pre-alpha"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		Version 0.3-pre-alpha of &lt;a href="get_the_games.php?game=FreePrince"&gt;FreePrince&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 21, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 5 2004 00:00:00 GMT-0600"
+		title="FreePrince v0.3-pre-alpha-win-brendon"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		Version 0.3-pre-alpha-win-brendon of &lt;a href="get_the_games.php?game=FreePrince"&gt;FreePrince&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 5, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 25 2005 00:00:00 GMT-0600"
+		title="FreePrince v0.3-pre-alpha-ushuaia"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		Version 0.3-pre-alpha-ushuaia of &lt;a href="get_the_games.php?game=FreePrince"&gt;FreePrince&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 25, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 19 2005 00:00:00 GMT-0600"
+		title="FreePrince v0.3-pre-alpha-enmbasso"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		Version 0.3-pre-alpha-enmbasso of &lt;a href="get_the_games.php?game=FreePrince"&gt;FreePrince&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 19, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 23 2005 00:00:00 GMT-0600"
+		title="FreePrince v0.3-pre-alpha-fullscreen"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		Version 0.3-pre-alpha-fullscreen of &lt;a href="get_the_games.php?game=FreePrince"&gt;FreePrince&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 23, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 25 2005 00:00:00 GMT-0600"
+		title="FreePrince v0.4-pre-alpha-shadow-of-the-castle"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		Version 0.4-pre-alpha-shadow-of-the-castle of &lt;a href="get_the_games.php?game=FreePrince"&gt;FreePrince&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 25, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 4 2005 00:00:00 GMT-0600"
+		title="poirot about last pre-alpha FreePrince"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		poirot: "By the beginning of March we had released the last pre-alpha version [of FreePrince] (FP0.4)."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=488"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/get_the_games.php?game=FreePrince"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 4, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 5 2005 00:00:00 GMT-0600"
+		title="FreePrince v0.4-pre-alpha-rata"
+		icon="timeline/timeline_js/images/dull-green-circle.png">
+		Version 0.4-pre-alpha-rata of &lt;a href="get_the_games.php?game=FreePrince"&gt;FreePrince&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 5, 2005&lt;/span&gt;
+	</event>
+	<!-- FreePrince -->
+
+	<!-- Princed -->
+	<event
+		textColor="black"
+		start="February 9 2003 00:00:00 GMT-0600"
+		title="Princed 2.0b"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		Princed version 2.0b was released today.
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 9, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 11 2003 00:00:00 GMT-0600"
+		title="Princed 2"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		Princed version 2 was released today.
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 11, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 2 2003 00:00:00 GMT-0600"
+		title="Princed 2.5b"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		Princed version 2.5b was released today.
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 2, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 29 2003 00:00:00 GMT-0600"
+		title="poirot about v2.5"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		poirot: "[W]e have compiled the final release."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=498"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=PR"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 29, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 29 2003 00:00:00 GMT-0600"
+		title="poirot announces v2.5"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		poirot: "Thraka: Princed V2.5 is now released! download it! noe it's all in English!!"
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/15b.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 29, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 29 2003 00:00:00 GMT-0600"
+		title="Princed 2.5 FINAL"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		Princed version 2.5 FINAL was released today.
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 29, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 3 2003 00:00:00 GMT-0600"
+		title="Princed 1 [sic]"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		Princed version 1 was released today. Version 1 was released after version 2, because it was intended for hex editing and not as a tool for users.
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 3, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 18 2003 00:00:00 GMT-0600"
+		title="poirot: Princed A7"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		poirot: "People: Alpha 7 is now in the site, there ir only one visible improvement: the start position."
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/30d.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 18, 2003&lt;/span&gt;
+	</event>
+	<event
+		color="#2dbcdb"
+		textColor="black"
+		start="September 18 2003 00:00:00 GMT-0600"
+		end="October 6 2003 00:00:00 GMT-0600"
+		isDuration="true"
+		title="Choosing Princed license">
+		Choosing a license for &lt;a href="level_editors.php?editor=Princed"&gt;Princed&lt;/a&gt;.
+		&lt;a href="cnu_forum_archive/53a.html"&gt;thread (53a)&lt;/a&gt;
+		&lt;br&gt;
+		&lt;a href="cnu_forum_archive/53b.html"&gt;thread (53b)&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;September 18, 2003 - October 6, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 11 2003 00:00:00 GMT-0600"
+		title="Princed version 3 alpha7"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		Princed version 3 alpha7 was released today.
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 11, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 12 2003 00:00:00 GMT-0600"
+		title="Server change and open source"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		poirot: "We are proud to announce we have moved our primary server to SourceForge.Net. [...] We also decided to migrate all licenses to the GNU General Public License, except some Libraries programs we made -in that case we will use GNU Lesser General Public License [...]."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=492"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 12, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 23 2004 00:00:00 GMT-0600"
+		title="poirot about history Princed project"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		poirot: "In 2000 [...] Once again I've been looking for an editor and found that there had been one! but I could only read some russian stuff I didn't understand. The only thing I've got was the name of the author of this game that was in some BBS, Alexandr Larionov. As the editor wasn't very functional I stopped looking for an editor and started princed project."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=77&amp;t=480"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 23, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 25 2004 00:00:00 GMT-0600"
+		title="forum moved"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		Anonymous: "We are moveng to a more appropiate place. The posts from today until 1st of july will be lost due to the forum moving."
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/74a.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 25, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 26 2005 00:00:00 GMT-0600"
+		title="poirot about new webmaster"
+		icon="timeline/timeline_js/images/teal-circle.png">
+		poirot: "During the month of February our new volunteer became our new webmaster and normalized the site to be html 4.01 strict [...]"
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=487"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/level_editors.php?editor=Princed"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 26, 2005&lt;/span&gt;
+	</event>
+	<!-- Princed -->
+
+	<!-- documentation (publications) -->
+	<event
+		textColor="black"
+		start="October 12 1989 00:00:00 GMT-0600"
+		title="Technical Information"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Mechner finishes the &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=OldDocuments"&gt;Technical Information&lt;/a&gt;&lt;/span&gt; document.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 12, 1989&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 8 1991 00:00:00 GMT-0600"
+		title="PoP2 Design Bible"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Mechner finishes the &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=OldDocuments"&gt;PoP2 Design Bible&lt;/a&gt;&lt;/span&gt; document.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 8, 1991&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 13 2000 00:00:00 GMT-0600"
+		title="Prince Of Persia kódfejtés"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Publication of &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=POPKod"&gt;Prince Of Persia kódfejtés&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 13, 2000&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 5 2008 00:00:00 GMT-0600"
+		title="Specifications of File Formats"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Publication of &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=FormatSpecifications"&gt;Specifications of File Formats&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 5, 2008&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 22 2011 00:00:00 GMT-0600"
+		title="Norbert announces document"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Norbert: "I have finished the first version of a document that explains how to change PoP1 images: [...]"
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=70&amp;t=2937"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/documentation.php?doc=ChangingPoP1Images"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 22, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 22 2011 00:00:00 GMT-0600"
+		title="Changing Prince of Persia 1 Images"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Publication of &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=ChangingPoP1Images"&gt;Changing Prince of Persia 1 Images&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 22, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 12 2012 00:00:00 GMT-0600"
+		title="Norbert announces document"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Norbert: "I have finished the first version of a document that describes all the special events that take place in PoP1: [...]"
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=73&amp;t=3151"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/documentation.php?doc=PoP1SpecialEvents"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 12, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 12 2012 00:00:00 GMT-0600"
+		title="Prince of Persia 1 Special Events"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Publication of &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=PoP1SpecialEvents"&gt;Prince of Persia 1 Special Events&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 12, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 14 2012 00:00:00 GMT-0600"
+		title="Updated PoP1 Special Events"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Updated &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=PoP1SpecialEvents"&gt;Prince of Persia 1 Special Events&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 14, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 26 2012 00:00:00 GMT-0600"
+		title="Norbert announces document"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Norbert: "I have finished the first version of a document that describes the differences between the DAT files that are being supplied with PoP1 versions 1.0, 1.3 and 1.4: [...]"
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=68&amp;t=3174"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/documentation.php?doc=PoP1_DAT_Differences"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 26, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 26 2012 00:00:00 GMT-0600"
+		title="PoP1 DAT Differences"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Publication of &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=PoP1_DAT_Differences"&gt;PoP1 DAT Differences&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 26, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 13 2012 00:00:00 GMT-0600"
+		title="Norbert announces document"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Norbert: "I have finished the first version of a document that describes the skills of guards in PoP1: [...]"
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=73&amp;t=3208"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/documentation.php?doc=PoP1GuardTypes"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 13, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 13 2012 00:00:00 GMT-0600"
+		title="Prince of Persia 1 Guard Types"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Publication of &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=PoP1GuardTypes"&gt;Prince of Persia 1 Guard Types&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 13, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 14 2012 00:00:00 GMT-0600"
+		title="Updated PoP1 Guard Types"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Updated &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=PoP1GuardTypes"&gt;Prince of Persia 1 Guard Types&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 14, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 16 2012 00:00:00 GMT-0600"
+		title="Updated PoP1 Guard Types"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Updated &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=PoP1GuardTypes"&gt;Prince of Persia 1 Guard Types&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 16, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 29 2013 00:00:00 GMT-0600"
+		title="Updated PoP1 Special Events"
+		icon="timeline/timeline_js/images/dark-blue-circle.png">
+		Updated &lt;span style="font-style:italic;"&gt;&lt;a href="documentation.php?doc=PoP1SpecialEvents"&gt;Prince of Persia 1 Special Events&lt;/a&gt;&lt;/span&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 29, 2013&lt;/span&gt;
+	</event>
+	<!-- documentation (publications) -->
+
+	<!-- various -->
+	<event
+		textColor="black"
+		start="October 3 1989 00:00:00 GMT-0600"
+		title="Prince of Persia (Apple II) release date"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Release of &lt;a href="get_the_games.php"&gt;Prince of Persia&lt;/a&gt; for Apple II.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 3, 1989&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 25 1991 00:00:00 GMT-0600"
+		title="Princedit released"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Release of &lt;a href="level_editors.php?editor=Princedit"&gt;Princedit&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 25, 1991&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 27 1993 00:00:00 GMT-0600"
+		title="PoPMap (for Mac) v1.0b5"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Version 1.0b5 of &lt;a href="level_editors.php?editor=PoPMap"&gt;PoPMap&lt;/a&gt; (for Mac).
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 27, 1993&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 23 1994 00:00:00 GMT-0600"
+		title="The Persia Cheater v1.0"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Version 1.0 of &lt;a href="other_useful_tools.php?tool=TPC"&gt;The Persia Cheater&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 23, 1994&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 11 2003 00:00:00 GMT-0600"
+		title="princed.com.ar registered"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Domain &lt;a target="_blank" href="http://princed.com.ar/"&gt;princed.com.ar&lt;/a&gt; registered.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 11, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 24 2003 00:00:00 GMT-0600"
+		title="Princed RM v1"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Version 1 of &lt;a href="other_useful_tools.php?tool=PRM"&gt;PRM&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 24, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 29 2003 00:00:00 GMT-0600"
+		title="Tammo Jan Dijkema posts"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Anónimo: "I can help, visit my website at phys.uu.nl/~dijkema. I have just sent you a mail."
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/13c.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 29, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 25 2003 00:00:00 GMT-0600"
+		title="Princed RM v1.2"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Version 1.2 of &lt;a href="other_useful_tools.php?tool=PRM"&gt;PRM&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 25, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 27 2003 00:00:00 GMT-0600"
+		title="The Arena released"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Anonymous: "This is the first beta version [of POP2: The Arena] and i'll be grateful for any comments about bugs, ideas, questions and problems [...]."
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/48a.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 27, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 23 2003 00:00:00 GMT-0600"
+		title="Record 2.0 beta released"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Anonymous: "I make program, that can capture tha animation from a game. [...] YOu can downlaod program, from http://www.pop2.princed.com.ar/."
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/61a.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;poirot: "[C]an capture an animation from 13h games (320 * 200 and 256 colors)."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=490"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=various_old"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 23, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 9 2004 00:00:00 GMT-0600"
+		title="Arabian Nights 2D released"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Release date of Arabian Nights 2D.
+		&lt;br&gt;&lt;a href="get_the_games.php?game=AN"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 9, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 23 2004 00:00:00 GMT-0600"
+		title="poirot about his childhood"
+		icon="timeline/timeline_js/images/black-circle.png">
+		poirot: "It was 1989 and I was 7 years old when I went to play to a friend's home." (He watched his friend play Prince of Persia.)
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=77&amp;t=480"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 23, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 21 2005 00:00:00 GMT-0600"
+		title="popuw.com registered"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Domain &lt;a target="_blank" href="https://popuw.com/"&gt;popuw.com&lt;/a&gt; registered.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 21, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 30 2005 00:00:00 GMT-0600"
+		title="PoP Recog released"
+		icon="timeline/timeline_js/images/black-circle.png">
+		PoP Recog (screenshot recognizer) by peter_k is being released.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 30, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="September 22 2006 00:00:00 GMT-0600"
+		title="simplified maps"
+		icon="timeline/timeline_js/images/black-circle.png">
+		htamas: "I've exported the .plv files from prince.dat using pr and processed them to produce some maps. [...] The sources for the program I used to generate the images are on my personal webserver[...] It's gpl'ed and you'll need the ImageMagick library to compile it."
+		&lt;br&gt;&lt;a href="https://www.popot.org/popuw_forum_archive/698a.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=drawmap"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;September 22, 2006&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="September 23 2006 00:00:00 GMT-0600"
+		title="simplified maps (cor.)"
+		icon="timeline/timeline_js/images/black-circle.png">
+		htamas: "The corrected version, with some other changes and maps for PoP1, is available here: maps and sources."
+		&lt;br&gt;&lt;a href="https://www.popot.org/popuw_forum_archive/698a.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=drawmap"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;September 23, 2006&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="September 23 2006 00:00:00 GMT-0600"
+		title="Release of drawmap."
+		icon="timeline/timeline_js/images/black-circle.png">
+		Release of &lt;a href="other_useful_tools.php?tool=drawmap"&gt;drawmap&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;September 23, 2006&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 6 2006 00:00:00 GMT-0600"
+		title="Repetition Of Time released"
+		icon="timeline/timeline_js/images/black-circle.png">
+		KingOfPersia: "finally, I completed my PoP mod."
+		&lt;br&gt;&lt;a href="https://www.popot.org/popuw_forum_archive/767a.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/custom_levels.php?mod=0000010"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 6, 2006&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 14 2007 00:00:00 GMT-0600"
+		title="first Total Pack announced"
+		icon="timeline/timeline_js/images/black-circle.png">
+		starwindz: "I have added your mods to a free program, PoP1-Total Pack(Prince of Persia 1 - Total Pack)."
+		&lt;br&gt;&lt;a href="https://www.popot.org/popuw_forum_archive/1149a.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=Total_Packs"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 14, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 14 2007 00:00:00 GMT-0600"
+		title="PoP1 Total Pack: V1.75, rel. 26"
+		icon="timeline/timeline_js/images/black-circle.png">
+		PoP1 Total Pack: V1.75, rel. 26.
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=Total_Packs"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 14, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 19 2007 00:00:00 GMT-0600"
+		title="Pr2LevEd released"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Release of Pr2LevEd.
+		&lt;br&gt;&lt;a href="level_editors.php?editor=Pr2LevEd"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 19, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 5 2007 00:00:00 GMT-0600"
+		title="SNES Password Analyzer"
+		icon="timeline/timeline_js/images/black-circle.png">
+		david: "I've made a password analyzer/creator, [...]"
+		&lt;br&gt;&lt;a href="https://www.popot.org/popuw_forum_archive/1521c.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=SNES_pass"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 5, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 10 2007 00:00:00 GMT-0600"
+		title="PoP1 Total Pack: V1.91, rel. 39"
+		icon="timeline/timeline_js/images/black-circle.png">
+		PoP1 Total Pack: V1.91, rel. 39.
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=Total_Packs"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 10, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 3 2007 00:00:00 GMT-0600"
+		title="PoP2 Total Pack 0.11"
+		icon="timeline/timeline_js/images/black-circle.png">
+		PoP2 Total Pack 0.11 released.
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=Total_Packs"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 3, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="September 19 2007 00:00:00 GMT-0600"
+		title="PoP 1-2 level converter"
+		icon="timeline/timeline_js/images/black-circle.png">
+		david: "I've made a PoP 1-2 level converter, you can download it here: [...]"
+		&lt;br&gt;&lt;a href="https://www.popot.org/popuw_forum_archive/2699b.html"&gt;post&lt;/a&gt; (zie ook a)
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;September 19, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 6 2007 00:00:00 GMT-0600"
+		title="princed.org registered"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Domain &lt;a target="_blank" href="https://princed.org/"&gt;princed.org&lt;/a&gt; registered.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 6, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 27 2007 00:00:00 GMT-0600"
+		title="PoP1-2 Level Converter"
+		icon="timeline/timeline_js/images/black-circle.png">
+		A PoP1 to PoP2 level converter.
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=Convert"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 27, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 11 2007 00:00:00 GMT-0600"
+		title="PoP1 Total Pack: V2.00, rel. 62"
+		icon="timeline/timeline_js/images/black-circle.png">
+		PoP1 Total Pack: V2.00, rel. 62.
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=Total_Packs"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 11, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 19 2008 00:00:00 GMT-0600"
+		title="PoP1 Total Pack: V2.06, rel. 69"
+		icon="timeline/timeline_js/images/black-circle.png">
+		PoP1 Total Pack: V2.06, rel. 69.
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=Total_Packs"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 19, 2008&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 4 2011 00:00:00 GMT-0600"
+		title="popot.org registered"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Domain &lt;a target="_blank" href="https://popot.org/"&gt;popot.org&lt;/a&gt; registered.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 4, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 21 2011 00:00:00 GMT-0600"
+		title="Norbert announces gpl2jascpal."
+		icon="timeline/timeline_js/images/black-circle.png">
+		Norbert: "I have just finished and released the first version (direct link) of gpl2jascpal."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=68&amp;t=2934"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=gpl2jascpal"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 21, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 21 2011 00:00:00 GMT-0600"
+		title="gpl2jascpal v0.1"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Version 0.1 of &lt;a href="other_useful_tools.php?tool=gpl2jascpal"&gt;gpl2jascpal&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 21, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 2 2011 00:00:00 GMT-0600"
+		title="EXE of Flash version"
+		icon="timeline/timeline_js/images/black-circle.png">
+		RusFan: "I have made single executable version of this game with SWFKit 1.0."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=68&amp;t=2942"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/get_the_games.php?game=SE"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 2, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 16 2011 00:00:00 GMT-0600"
+		title="Prince of Persia (Commodore 64/128) release date"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Release of &lt;a href="get_the_games.php"&gt;Prince of Persia&lt;/a&gt; for Commodore 64/128.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 16, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 29 2011 00:00:00 GMT-0600"
+		title="C64 Total Pack 1.0"
+		icon="timeline/timeline_js/images/black-circle.png">
+		C64 Total Pack 1.0 released.
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=Total_Packs"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 29, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 17 2012 00:00:00 GMT-0600"
+		title="Apple II source code released"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Apple II (6502 assembly) source code released.
+		&lt;br&gt;&lt;a href="https://www.popot.org/get_the_games.php?game=1_Apple_II_Code"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 17, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 13 2012 00:00:00 GMT-0600"
+		title="PoP1 Studio released"
+		icon="timeline/timeline_js/images/black-circle.png">
+		Release of PoP1 Studio.
+		&lt;br&gt;&lt;a href="other_useful_tools.php?tool=PoP1_Studio"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 13, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="September 23 2013 00:00:00 GMT-0600"
+		title="PoP1 Total Pack: V3.0"
+		icon="timeline/timeline_js/images/black-circle.png">
+		PoP1 Total Pack: V3.0.
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=Total_Packs"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;September 23, 2013&lt;/span&gt;
+	</event>
+	<!-- various -->
+
+	<!-- RoomShaker II -->
+	<event
+		textColor="black"
+		start="October 8 2007 00:00:00 GMT-0600"
+		title="RoomShaker II v1.0 Release 1"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.0 Release 1 of &lt;a href="level_editors.php?editor=RoomShaker2"&gt;RoomShaker II&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 8, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 6 2007 00:00:00 GMT-0600"
+		title="RoomShaker II v1.05 Release 2"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.05 Release 2 of &lt;a href="level_editors.php?editor=RoomShaker2"&gt;RoomShaker II&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 6, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 30 2008 00:00:00 GMT-0600"
+		title="RoomShaker II v1.1 Release 3"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.1 Release 3 of &lt;a href="level_editors.php?editor=RoomShaker2"&gt;RoomShaker II&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 30, 2008&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 6 2010 00:00:00 GMT-0600"
+		title="RoomShaker II v1.15 Release 4"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.15 Release 4 of &lt;a href="level_editors.php?editor=RoomShaker2"&gt;RoomShaker II&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 6, 2010&lt;/span&gt;
+	</event>
+	<!-- RoomShaker II -->
+
+	<!-- RoomShaker -->
+	<event
+		textColor="black"
+		start="June 4 2002 00:00:00 GMT-0600"
+		title="RoomShaker v1.0 Release 1"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.0 Release 1 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 4, 2002&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 25 2002 00:00:00 GMT-0600"
+		title="RoomShaker v1.2 Release 2"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.2 Release 2 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 25, 2002&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 13 2002 00:00:00 GMT-0600"
+		title="RoomShaker v1.3 Release 3"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.3 Release 3 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 13, 2002&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 5 2002 00:00:00 GMT-0600"
+		title="RoomShaker v1.4 Release 4"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.4 Release 4 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 5, 2002&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 12 2002 00:00:00 GMT-0600"
+		title="RoomShaker v1.45 Release 5"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.45 Release 5 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 12, 2002&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 27 2002 00:00:00 GMT-0600"
+		title="RoomShaker v1.47 Release 6"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.47 Release 6 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 27, 2002&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="September 29 2002 00:00:00 GMT-0600"
+		title="RoomShaker v1.49 Release 7"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.49 Release 7 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;September 29, 2002&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 11 2002 00:00:00 GMT-0600"
+		title="RoomShaker v1.5 Release 8"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.5 Release 8 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 11, 2002&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 5 2003 00:00:00 GMT-0600"
+		title="RoomShaker v1.52 Release 9"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.52 Release 9 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 5, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 28 2003 00:00:00 GMT-0600"
+		title="RS v1.53 Rel. 10"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.53 Release 10 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 28, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 27 2003 00:00:00 GMT-0600"
+		title="RoomShaker v1.6 Release 11"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.6 Release 11 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 27, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 12 2004 00:00:00 GMT-0600"
+		title="RoomShaker v1.64 Release 12"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.64 Release 12 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 12, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 29 2004 00:00:00 GMT-0600"
+		title="RoomShaker v1.66 Release 13"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.66 Release 13 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 29, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 2 2004 00:00:00 GMT-0600"
+		title="RoomShaker v1.67 Release 14"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.67 Release 14 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 2, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 21 2004 00:00:00 GMT-0600"
+		title="RoomShaker v1.68 Release 15"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.68 Release 15 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 21, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 2 2005 00:00:00 GMT-0600"
+		title="RoomShaker v1.7 Release 16"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.7 Release 16 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 2, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 16 2005 00:00:00 GMT-0600"
+		title="RoomShaker v1.71 Release 17"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.71 Release 17 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 16, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 3 2005 00:00:00 GMT-0600"
+		title="RoomShaker v1.72 Release 18"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.72 Release 18 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 3, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 31 2005 00:00:00 GMT-0600"
+		title="RoomShaker v1.73 Release 19"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.73 Release 19 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 31, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 11 2007 00:00:00 GMT-0600"
+		title="RoomShaker v1.74 Release 20"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.74 Release 20 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 11, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 20 2007 00:00:00 GMT-0600"
+		title="RoomShaker v1.75 Release 21"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.75 Release 21 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 20, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 5 2008 00:00:00 GMT-0600"
+		title="RoomShaker v1.76 Release 22"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.76 Release 22 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 5, 2008&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 29 2008 00:00:00 GMT-0600"
+		title="RoomShaker v1.78 Release 23"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.78 Release 23 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 29, 2008&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 8 2010 00:00:00 GMT-0600"
+		title="RoomShaker v1.79 Release 24"
+		icon="timeline/timeline_js/images/purple-circle.png">
+		Version 1.79 Release 24 of &lt;a href="level_editors.php?editor=RoomShaker1"&gt;RoomShaker&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 8, 2010&lt;/span&gt;
+	</event>
+	<!-- RoomShaker -->
+
+	<!-- apoplexy -->
+	<event
+		textColor="black"
+		start="April 3 2008 00:00:00 GMT-0600"
+		title="apoplexy v1.0b"
+		icon="timeline/timeline_js/images/dull-blue-circle.png">
+		Version 1.0b of &lt;a href="level_editors.php?editor=apoplexy"&gt;apoplexy&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 3, 2008&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 30 2008 00:00:00 GMT-0600"
+		title="apoplexy v1.0b (Windows)"
+		icon="timeline/timeline_js/images/dull-blue-circle.png">
+		Version 1.0b (Windows) of &lt;a href="level_editors.php?editor=apoplexy"&gt;apoplexy&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 30, 2008&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 30 2011 00:00:00 GMT-0600"
+		title="apoplexy v1.1"
+		icon="timeline/timeline_js/images/dull-blue-circle.png">
+		Version 1.1 of &lt;a href="level_editors.php?editor=apoplexy"&gt;apoplexy&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 30, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 6 2011 00:00:00 GMT-0600"
+		title="apoplexy v1.1 (Windows)"
+		icon="timeline/timeline_js/images/dull-blue-circle.png">
+		Version 1.1 (Windows) of &lt;a href="level_editors.php?editor=apoplexy"&gt;apoplexy&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 6, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 16 2012 00:00:00 GMT-0600"
+		title="apoplexy v1.2b"
+		icon="timeline/timeline_js/images/dull-blue-circle.png">
+		Version 1.2b of &lt;a href="level_editors.php?editor=apoplexy"&gt;apoplexy&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 16, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 18 2012 00:00:00 GMT-0600"
+		title="apoplexy v1.2b (Windows)"
+		icon="timeline/timeline_js/images/dull-blue-circle.png">
+		Version 1.2b (Windows) of &lt;a href="level_editors.php?editor=apoplexy"&gt;apoplexy&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 17/18, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="September 20 2013 00:00:00 GMT-0600"
+		title="apoplexy v1.9b"
+		icon="timeline/timeline_js/images/dull-blue-circle.png">
+		Version 1.9b of &lt;a href="level_editors.php?editor=apoplexy"&gt;apoplexy&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;September 20, 2013&lt;/span&gt;
+	</event>
+	<!-- apoplexy -->
+
+	<!-- Pr1SnesLevEd -->
+	<event
+		textColor="black"
+		start="July 20 2009 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #1"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 1 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;
+		David: "After some months of research, I've finally made it!" (&lt;a href="https://forum.princed.org/viewtopic.php?f=63&amp;t=1654"&gt;thread&lt;/a&gt;)
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 20, 2009&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 15 2009 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #2"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 2 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 15, 2009&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 21 2009 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #3"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 3 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 21, 2009&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 22, 2009 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #4"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 4 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 22, 2009&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 28 2009 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #5"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 5 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 28, 2009&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 14 2010 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #6"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 6 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 14, 2010&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 28 2010 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #7"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 7 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 28, 2010&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="September 6 2010 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #8"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 8 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;September 6, 2010&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 30 2010 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #9"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 9 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 30, 2010&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 29 2011 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #10"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 10 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 29, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 31 2012 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #11"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 11 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 31, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 17 2012 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #12"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 12 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 17, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 29 2013 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #13"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 13 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 29, 2013&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 4 2013 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #14"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 14 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 4, 2013&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 14 2013 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #15"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 15 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 14, 2013&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 15 2013 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #16"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 16 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 15, 2013&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 24 2013 00:00:00 GMT-0600"
+		title="Pr1SnesLevEd #17"
+		icon="timeline/timeline_js/images/dark-red-circle.png">
+		Release 17 of &lt;a href="level_editors.php?editor=Pr1SnesLevEd"&gt;Pr1SnesLevEd&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 24, 2013&lt;/span&gt;
+	</event>
+	<!-- Pr1SnesLevEd -->
+
+	<!-- PR -->
+	<event
+		textColor="black"
+		start="June 9 2003 00:00:00 GMT-0600"
+		title="poirot announces PR Alpha"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		(PS and PG have been completely unveiled. The PS and PG editors were merged.) poirot: "[Y]ou can download PR Alpha version and a midisnd dat file we compiled with the PR alpha program."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=495"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=PR"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 9, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 9 2003 00:00:00 GMT-0600"
+		title="PR v0.1 alpha"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.1 alpha of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 9, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 13 2003 00:00:00 GMT-0600"
+		title="poirot announce new PR"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		poirot: "Well, a new version of PR has been released, you can download from here."
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/42g.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=70&amp;t=354"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=PR"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 13, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 17 2003 00:00:00 GMT-0600"
+		title="PR v0.2 alpha"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.2 alpha of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 17, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 25 2003 00:00:00 GMT-0600"
+		title="poirot announces PR v0.3 Beta"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		poirot: "I've uploaded PR v0.3 Beta, this version [...]"
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/46b.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=PR"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 25, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 25 2003 00:00:00 GMT-0600"
+		title="PR v0.3 beta"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.3 beta of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 25, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 27 2003 00:00:00 GMT-0600"
+		title="PR v0.4 beta"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.4 beta of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 27, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 3 2003 00:00:00 GMT-0600"
+		title="PR v0.5 beta"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.5 beta of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 3, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 11 2003 00:00:00 GMT-0600"
+		title="poirot announces PR 0.5 Beta"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		poirot: "You can download PR 0.5 Beta in the home page, [...]"
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/42g.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=PR"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 11, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 8 2003 00:00:00 GMT-0600"
+		title="PR v0.6 alpha"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.6 alpha of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 8, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 17 2003 00:00:00 GMT-0600"
+		title="PR v0.6 beta"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.6 beta of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 17, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 23 2003 00:00:00 GMT-0600"
+		title="PR v0.7"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.7 of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 23, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 4 2003 00:00:00 GMT-0600"
+		title="PR v0.8 beta"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.8 beta of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 4, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 22 2003 00:00:00 GMT-0600"
+		title="PR v0.9 Release 1 (unstable)"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.9 Release 1 (unstable) of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 22, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 21 2004 00:00:00 GMT-0600"
+		title="PR v0.9 Release 2 (stable)"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 0.9 Release 2 (stable) of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 21, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 22 2004 00:00:00 GMT-0600"
+		title="PR v1.0 beta"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 1.0 beta of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 22, 2004&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 26 2005 00:00:00 GMT-0600"
+		title="PR v1.0"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 1.0 of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 26, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 15 2005 00:00:00 GMT-0600"
+		title="PR v1.1"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 1.1 of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 15, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="June 6 2006 00:00:00 GMT-0600"
+		title="PR v1.2"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 1.2 of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;June 6, 2006&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 9 2007 00:00:00 GMT-0600"
+		title="PR front-end released"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Butcher releases a PR front-end.
+		&lt;br&gt;&lt;a href="https://www.popot.org/popuw_forum_archive/2955a.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/other_useful_tools.php?tool=PR"&gt;info&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 9, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 18 2007 00:00:00 GMT-0600"
+		title="PR v1.3 alpha"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 1.3 alpha of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 18, 2007&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="February 12 2011 00:00:00 GMT-0600"
+		title="PR v1.3 beta"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 1.3 beta of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;February 12, 2011&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="October 13 2012 00:00:00 GMT-0600"
+		title="PR v1.3"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 1.3 of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;October 13, 2012&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 19 2013 00:00:00 GMT-0600"
+		title="PR v1.3.1p"
+		icon="timeline/timeline_js/images/dull-red-circle.png">
+		Version 1.3.1 pre-release of &lt;a href="other_useful_tools.php?tool=PR"&gt;PR&lt;/a&gt;.
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 19, 2013&lt;/span&gt;
+	</event>
+	<!-- PR -->
+
+	<!-- research (reverse engineering) -->
+	<event
+		color="#ffff00"
+		textColor="black"
+		start="January 1 2000 00:00:00 GMT-0600"
+		end="February 29 2000 00:00:00 GMT-0600"
+		isDuration="true"
+		title="work by Morpet and Zambizi">
+		Morpet and Zambizi start looking into LEVELS.DAT with a hex editor (rooms, tiles, checksum).
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;Jan. and Feb. 2000&lt;/span&gt;
+	</event>
+	<event
+		color="#ffff00"
+		textColor="black"
+		start="May 1 2000 00:00:00 GMT-0600"
+		end="June 30 2000 00:00:00 GMT-0600"
+		isDuration="true"
+		title="work by Morpet and Zambizi">
+		Morpet and Zambizi continue looking into LEVELS.DAT (doors, guards).
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May and June 2000&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="April 23 2003 00:00:00 GMT-0600"
+		title="PG res. next"
+		icon="timeline/timeline_js/images/yellow-circle.png">
+		poirot: "The PG Development Team are now beginning the hard task of coming to understand the POP1 graphics format."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=499"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;April 23, 2003&lt;/span&gt;
+	</event>
+	<event
+		color="#ffff00"
+		textColor="black"
+		start="May 1 2003 00:00:00 GMT-0600"
+		end="June 13 2003 00:00:00 GMT-0600"
+		isDuration="true"
+		title="Figuring out PG (graphics)">
+		Figuring out PG.
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/19c.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;
+		poirot: "Well... PG is 100% figured out, [...]"
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=70&amp;t=331"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 1, 2003 - June 13, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 14 2003 00:00:00 GMT-0600"
+		title="poirot about Princed 1 and 2"
+		icon="timeline/timeline_js/images/yellow-circle.png">
+		poirot: "Well, I've spent more that two month working on that. I didn0t use an hex editor, but I used a self-made application in Pascal that I called PV1, it was like an hex editor but costomized for levels.dat. As you can see, I only used Pascal and my own code to figure out the format. For each new discover I made I implemented it in the PV1, so from that time on, the program had this new feature. Passed those two months, I realized that the program had a very useful library capable to edit the game levels. So I used this library in a new program and called it PV2. Passed some time PV2.5 was done (the version you can download from the page). Once I realized what I was created, I translated the library into Ansi C, and after several tests and other new discoveries, I created a C++ class which was able to edit levels.dat. By this time, there was lots of people in the team, so Moogi started to code the WYSIWYG Rendering Engine using my C++ Class. So here we are, with a PV3 in the way, near to come out."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=72&amp;t=339"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/27c.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 14, 2003&lt;/span&gt;
+	</event>
+	<event
+		color="#ffff00"
+		textColor="black"
+		start="May 26 2003 00:00:00 GMT-0600"
+		end="June 13 2003 00:00:00 GMT-0600"
+		isDuration="true"
+		title="Figuring out PS (sound)">
+		(Music/audio extraction.) poirot: "Well... PS is 100% figured out, PR does extract and compress midi and wav, so [...]"
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/35h.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=70&amp;t=347"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 26, 2003 - June 13, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="May 28 2003 00:00:00 GMT-0600"
+		title="poirot about PS"
+		icon="timeline/timeline_js/images/yellow-circle.png">
+		poirot: "We were able to extract all the midi files from the game, and we know how to extract wave files also, [...]"
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=496"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;May 28, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="July 1 2003 00:00:00 GMT-0600"
+		title="poirot: PG done"
+		icon="timeline/timeline_js/images/yellow-circle.png">
+		poirot: "PG figuring out is done, we know the whole 100% format, including title.dat and big images."
+		&lt;br&gt;&lt;a href="https://www.popot.org/cnu_forum_archive/42g.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=70&amp;t=354"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;July 1, 2003&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="March 18 2005 00:00:00 GMT-0600"
+		title="poirot: algorithms solved"
+		icon="timeline/timeline_js/images/yellow-circle.png">
+		poirot: "Both algorithms [2005 Princed contest; http://www.princed.com.ar/contest.jsp] were solved in two days since the samples had been published by Diego Essaya."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=485"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;March 18, 2005&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="January 18 2006 00:00:00 GMT-0600"
+		title="poirot: imported POP2 .DAT"
+		icon="timeline/timeline_js/images/yellow-circle.png">
+		poirot: "We are proud to announce that we succesfully imported a POP2 dat file."
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=78&amp;t=511"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;January 18, 2006&lt;/span&gt;
+	</event>
+	<event
+		color="#ffff00"
+		textColor="black"
+		start="August 10 2006 00:00:00 GMT-0600"
+		end="August 20 2006 00:00:00 GMT-0600"
+		isDuration="true"
+		title="htamas: WDA for palace">
+		Using the dungeon WDA for palace levels. Code by htamas.
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=73&amp;t=660"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 10, 2006 - August 20, 2006&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="August 17 2006 00:00:00 GMT-0600"
+		title="start thread changing PRINCE.EXE"
+		icon="timeline/timeline_js/images/yellow-circle.png">
+		Start of a long thread in which htamas and others look into changing PRINCE.EXE.
+		&lt;br&gt;&lt;a href="https://www.popot.org/popuw_forum_archive/590a.html"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;August 17, 2006&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="December 11 2008 00:00:00 GMT-0600"
+		title="POP2 save format"
+		icon="timeline/timeline_js/images/yellow-circle.png">
+		David about the format of the POP2 save file.
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=70&amp;t=559"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;December 11, 2008&lt;/span&gt;
+	</event>
+	<event
+		textColor="black"
+		start="November 14 2011 00:00:00 GMT-0600"
+		title="Kaslghnoon about hacking the SNES ROM"
+		icon="timeline/timeline_js/images/yellow-circle.png">
+		Kaslghnoon about the SNES ROM format.
+		&lt;br&gt;&lt;a href="https://forum.princed.org/viewtopic.php?f=63&amp;t=3099"&gt;post&lt;/a&gt;
+		&lt;br&gt;&lt;span style="color:#aaa;"&gt;November 14, 2011&lt;/span&gt;
+	</event>
+	<!-- research (reverse engineering) -->
+
+</data>

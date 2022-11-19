@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- https://www.popot.org/news.xml -->
+<news>
+	<item date="2022-11-16">
+		<html><![CDATA[Added the new <a href="level_editors.php?editor=apoplexy"><span class="italic">apoplexy</span></a> release (version 3.16).]]></html>
+	</item>
+	<item date="2022-02-28">
+		<html><![CDATA[Added <a href="/documentation.php?doc=TricksPage5#169">trick 169</a>.]]></html>
+	</item>
+	<item date="2022-02-24">
+		<html><![CDATA[Added <a href="/documentation.php?doc=TricksPage5#168">trick 168</a>.]]></html>
+	</item>
+	<item date="2021-12-01">
+		<html><![CDATA[Updated the page about the now-finished <a href="/get_the_games.php?game=1_BK">BK-0011M</a> port.]]></html>
+	</item>
+	<item date="2021-10-17">
+		<html><![CDATA[Added <a href="/documentation.php?doc=TricksPage5#167">trick 167</a>.]]></html>
+	</item>
+	<item date="2021-07-05">
+		<html><![CDATA[Added the new <a href="get_the_games.php?game=SDLPoP"><span class="italic">SDLPoP</span></a> release (version 1.22).]]></html>
+	</item>
+	<item date="2021-06-26">
+		<html><![CDATA[Added the new <a href="level_editors.php?editor=Pr1SnesLevEd"><span class="italic">Pr1SnesLevEd</span></a> release (26 June 2021).]]></html>
+	</item>
+	<item date="2021-06-20">
+		<html><![CDATA[Added the new <a href="level_editors.php?editor=Pr1SnesLevEd"><span class="italic">Pr1SnesLevEd</span></a> release (20 June 2021).]]></html>
+	</item>
+	<item date="2021-05-05">
+		<html><![CDATA[Added <a href="/documentation.php?doc=TricksPage5#166">trick 166</a>.]]></html>
+	</item>
+	<item date="2021-05-01">
+		<html><![CDATA[Added the new <a href="level_editors.php?editor=apoplexy"><span class="italic">apoplexy</span></a> release (version 3.15).]]></html>
+	</item>
+	<item date="2021-04-30">
+		<html><![CDATA[Added <a href="/documentation.php?doc=TricksPage5#164">trick 164</a> and <a href="/documentation.php?doc=TricksPage5#165">trick 165</a>.]]></html>
+	</item>
+	<item date="2021-04-29">
+		<html><![CDATA[This main web page ("News") will no longer separately mention each newly added mod. Instead, the page's top section "Most recently added mods" now always lists the five most recently added mods.]]></html>
+	</item>
+	<item date="2021-04-26">
+		<html><![CDATA[PoP1 for DOS mod <a href="custom_levels.php?mod=0000248"><span class="italic">treasure island</span></a> was added.]]></html>
+	</item>
+	<item date="2021-04-20">
+		<html><![CDATA[PoP1 for SNES mod <a href="custom_levels.php?mod=S000027"><span class="italic">Tricks gone away</span></a> was added.]]></html>
+	</item>
+	<item date="2021-04-16">
+		<html><![CDATA[PoP1 for DOS mod <a href="custom_levels.php?mod=0000247"><span class="italic">Adventure Without Sword</span></a> was added.]]></html>
+	</item>
+	<item date="2021-04-15">
+		<html><![CDATA[PoP1 for DOS mods <a href="custom_levels.php?mod=0000245"><span class="italic">Prince of Reversia</span></a> and <a href="custom_levels.php?mod=0000246"><span class="italic">Amogh's Levelset 5</span></a> were added.]]></html>
+	</item>
+	<item date="2021-04-12">
+		<html><![CDATA[PoP1 for DOS (SDLPoP) mod <a href="custom_levels.php?mod=0000244"><span class="italic">Amogh's Levelset 4</span></a> was added.]]></html>
+	</item>
+	<item date="2021-04-11">
+		<html><![CDATA[PoP1 for DOS mod <a href="custom_levels.php?mod=0000243"><span class="italic">Prince Of Aydın 2</span></a> was added.]]></html>
+	</item>
+	<item date="2021-04-09">
+		<html><![CDATA[Mod authors can now add <a href="/tags.php">tags</a>, and <a href="/custom_levels.php?action=Search">search</a> allows players to filter by tag.]]></html>
+	</item>
+	<item date="2021-03-31">
+		<html><![CDATA[Added the new <a href="level_editors.php?editor=apoplexy"><span class="italic">apoplexy</span></a> release (version 3.14.1).<br>Also, PoP1 for DOS mod <a href="custom_levels.php?mod=0000242"><span class="italic">Key Issue</span></a> was added.]]></html>
+	</item>
+	<item date="2021-03-21">
+		<html><![CDATA[Added the new <a href="level_editors.php?editor=apoplexy"><span class="italic">apoplexy</span></a> release (version 3.14).<br>Also, added <a href="/documentation.php?doc=TricksPage5#163">trick 163</a>.]]></html>
+	</item>
+	<item date="2021-03-08">
+		<html><![CDATA[PoP1 for DOS mod <a href="custom_levels.php?mod=0000241"><span class="italic">Prince Of Aydın</span></a> was added.]]></html>
+	</item>
+	<item date="2021-03-06">
+		<html><![CDATA[PoP1 for DOS mods <a href="custom_levels.php?mod=0000238"><span class="italic">MASIS</span></a>, <a href="custom_levels.php?mod=0000239"><span class="italic">Quickly</span></a> and <a href="custom_levels.php?mod=0000240"><span class="italic">You have 5 minutes</span></a> were added.]]></html>
+	</item>
+	<item date="2021-02-27">
+		<html><![CDATA[Added the <a href="/documentation.php?doc=Video">2021 Update</a> video.]]></html>
+	</item>
+	<item date="2021-02-18">
+		<html><![CDATA[Added <a href="/documentation.php?doc=TricksPage5#162">trick 162</a>.]]></html>
+	</item>
+	<item date="2021-02-12">
+		<html><![CDATA[PoP1 for DOS mod <a href="custom_levels.php?mod=0000237"><span class="italic">Run, Prince! Run!</span></a> was added.]]></html>
+	</item>
+	<item date="2021-02-05">
+		<html><![CDATA[Today, popot.org has its 10 year anniversary!]]></html>
+	</item>
+	<item date="2021-02-01">
+		<html><![CDATA[Added the new <a href="level_editors.php?editor=apoplexy"><span class="italic">apoplexy</span></a> release (version 3.13).]]></html>
+	</item>
+	<item date="2021-01-29">
+		<html><![CDATA[Added the new <a href="level_editors.php?editor=apoplexy"><span class="italic">apoplexy</span></a> release (version 3.12).]]></html>
+	</item>
+	<item date="2021-01-20">
+		<html><![CDATA[PoP1 for DOS mod <a href="custom_levels.php?mod=0000236"><span class="italic">Pandemic in Persia</span></a> was added.]]></html>
+	</item>
+	<item date="2021-01-11">
+		<html><![CDATA[Added <a href="/documentation.php?doc=TricksPage5#161">trick 161</a>.]]></html>
+	</item>
+	<item date="2021-01-08">
+		<html><![CDATA[Added <a href="/documentation.php?doc=TricksPage4#160">trick 160</a>.]]></html>
+	</item>
+	<item date="2021-01-06">
+		<html><![CDATA[Added <a href="/documentation.php?doc=TricksPage4#159">trick 159</a>.]]></html>
+	</item>
+	<item date="2021-01-02">
+		<html><![CDATA[Users can now also <i>edit</i> their mods via an online form.]]></html>
+	</item>
+	<item date="2021-01-01">
+		<html><![CDATA[Moved <a href="/index.php?years=2011-2020">news of 2011-2020</a> to its own page.]]></html>
+	</item>
+</news>
